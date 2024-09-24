@@ -1,0 +1,3505 @@
+{
+  "vaultName": "DnD",
+  "lastExport": 1727219574572,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Beastiary/Abilities/Passive/Dwarven Armor Training.md",
+    "Beastiary/Abilities/Passive/Dwarven Combat training.md",
+    "Beastiary/Abilities/Passive/Dwarven resistance.md",
+    "Beastiary/Abilities/Passive/Keen Hearing and Smell.md",
+    "Beastiary/Abilities/Passive/Passive.md",
+    "Beastiary/Abilities/Passive/Undead Fortitude.md",
+    "Beastiary/Abilities/Spell Turning/Spell Turning.md",
+    "Beastiary/Abilities/Spell Turning/Spell Turning 0 (cantrip).md",
+    "Beastiary/Abilities/Spell Turning/Spell Turning 1.md",
+    "Beastiary/Abilities/Spell Turning/Spell Turning 2.md",
+    "Beastiary/Abilities/Spell Turning/Spell Turning 3.md",
+    "Beastiary/Abilities/Spell Turning/Spell Turning 4.md",
+    "Beastiary/Abilities/Spell Turning/Spell Turning 5.md",
+    "Beastiary/Abilities/Spell Turning/Spell Turning 6.md",
+    "Beastiary/Abilities/Spell Turning/Spell Turning 7.md",
+    "Beastiary/Abilities/Spell Turning/Spell Turning 8.md",
+    "Beastiary/Abilities/Spell Turning/Spell Turning 9.md",
+    "Beastiary/Abilities/Spell Turning/Spell Turning 10.md",
+    "Beastiary/Abilities/A father to his men.md",
+    "Beastiary/Abilities/Abilities.md",
+    "Beastiary/Abilities/And I shall endure.md",
+    "Beastiary/Abilities/Aspect of the artisan.md",
+    "Beastiary/Abilities/Aspect of the hierophant.md",
+    "Beastiary/Abilities/Aspect of the Slayer.md",
+    "Beastiary/Abilities/Beastial might.md",
+    "Beastiary/Abilities/Beastial Speed.md",
+    "Beastiary/Abilities/Bigger they are.md",
+    "Beastiary/Abilities/Blessed foraging.md",
+    "Beastiary/Abilities/Blessed husbandry.md",
+    "Beastiary/Abilities/Blessings of the forge.md",
+    "Beastiary/Abilities/Boon.md",
+    "Beastiary/Abilities/Cavalry.md",
+    "Beastiary/Abilities/Claw.md",
+    "Beastiary/Abilities/Cleansing fire.md",
+    "Beastiary/Abilities/Combat.md",
+    "Beastiary/Abilities/Common Leadership.md",
+    "Beastiary/Abilities/Death Wills it.md",
+    "Beastiary/Abilities/Endurance.md",
+    "Beastiary/Abilities/Every lie is a truth.md",
+    "Beastiary/Abilities/Every truth is a lie.md",
+    "Beastiary/Abilities/Fertilising the field.md",
+    "Beastiary/Abilities/Focus Down.md",
+    "Beastiary/Abilities/Harder they fall.md",
+    "Beastiary/Abilities/Hooves.md",
+    "Beastiary/Abilities/I shall stand against them.md",
+    "Beastiary/Abilities/Last rites.md",
+    "Beastiary/Abilities/Leadership.md",
+    "Beastiary/Abilities/Lesser Leadership.md",
+    "Beastiary/Abilities/Magic.md",
+    "Beastiary/Abilities/Multi Attack.md",
+    "Beastiary/Abilities/Of Artifice and  artistry.md",
+    "Beastiary/Abilities/Pack tactics.md",
+    "Beastiary/Abilities/Parry.md",
+    "Beastiary/Abilities/Pounce.md",
+    "Beastiary/Abilities/Rage.md",
+    "Beastiary/Abilities/Rally.md",
+    "Beastiary/Abilities/Resolute.md",
+    "Beastiary/Abilities/The art of the siege breaker.md",
+    "Beastiary/Abilities/The weakest link.md",
+    "Beastiary/Abilities/the wild hunt.md",
+    "Beastiary/Abilities/Trample.md",
+    "Beastiary/Abilities/Unless you know what your doing.md",
+    "Beastiary/Abilities/Vampiric Drain.md",
+    "Beastiary/Abilities/Vampiric Regeneration.md",
+    "Beastiary/Abilities/War call.md",
+    "Beastiary/Abilities/You don't interfere with death.md",
+    "Beastiary/Bandit/Bandit.md",
+    "Beastiary/Bandit/Bandit barricade.md",
+    "Beastiary/Bandit/Bandit Boss.md",
+    "Beastiary/Bandit/Bandit Captain.md",
+    "Beastiary/Bandit/Bandit Fodder.md",
+    "Beastiary/Bandit/Bandit Footman.md",
+    "Beastiary/Bandit/Bandit Footman Sergeant.md",
+    "Beastiary/Bandit/Bandit Hound.md",
+    "Beastiary/Bandit/Bandit mini-boss.md",
+    "Beastiary/Bandit/Bandit pack master.md",
+    "Beastiary/Bandit/Bandit Rider.md",
+    "Beastiary/Bandit/Bandit Rider Sergeant.md",
+    "Beastiary/Bandit/Bandit sharpshooter.md",
+    "Beastiary/Bandit/Bandit Specialist.md",
+    "Beastiary/Bandit/Bandit Squad leader.md",
+    "Beastiary/Bandit/Bandit unique.md",
+    "Beastiary/Bandit/Bandit warlord.md",
+    "Beastiary/Bandit/Ulf Blackthorne.md",
+    "Beastiary/Barbaric/Barbaric.md",
+    "Beastiary/Barbaric/Barbaric Boss.md",
+    "Beastiary/Barbaric/Barbaric mini-boss.md",
+    "Beastiary/Barbaric/Barbaric Specialist.md",
+    "Beastiary/Barbaric/Barbaric Squad Leader.md",
+    "Beastiary/Barbaric/barbaric unique.md",
+    "Beastiary/Barbaric/Foresworn.md",
+    "Beastiary/Barbaric/Foresworn Archer.md",
+    "Beastiary/Barbaric/Foresworn briar heart.md",
+    "Beastiary/Barbaric/Foresworn shieldmadien.md",
+    "Beastiary/Civilised/Civilised.md",
+    "Beastiary/Civilised/Civilised Boss.md",
+    "Beastiary/Civilised/Civilised Fodder.md",
+    "Beastiary/Civilised/Civilised Mini-Boss.md",
+    "Beastiary/Civilised/Civilised Specialist.md",
+    "Beastiary/Civilised/Civilised Squad Leader.md",
+    "Beastiary/Civilised/Civilised Unique.md",
+    "Beastiary/Civilised/Guard.md",
+    "Beastiary/Civilised/guard captain.md",
+    "Beastiary/Civilised/Guard hound.md",
+    "Beastiary/Civilised/Guard sergeant.md",
+    "Beastiary/Civilised/The Cursed giant.md",
+    "Beastiary/CR/CR.md",
+    "Beastiary/CR/CR 1.md",
+    "Beastiary/CR/CR 1-2.md",
+    "Beastiary/CR/CR 1-4.md",
+    "Beastiary/CR/CR 1-8.md",
+    "Beastiary/CR/CR 2.md",
+    "Beastiary/CR/CR 3.md",
+    "Beastiary/CR/CR 30.md",
+    "Beastiary/Others/Others.md",
+    "Beastiary/Others/the Other of lust.md",
+    "Beastiary/Undead/Lesser Drauger.md",
+    "Beastiary/Undead/Undead.md",
+    "Beastiary/Undead/Zombie Villager.md",
+    "Beastiary/Vampire/Crimson court agent.md",
+    "Beastiary/Vampire/Ghoul kitty.md",
+    "Beastiary/Vampire/Lesser Vampire sorcerer.md",
+    "Beastiary/Vampire/Scout.md",
+    "Beastiary/Vampire/Vampire.md",
+    "Beastiary/Vampire/Vampire Fodder.md",
+    "Beastiary/Vampire/Vampire kitten.md",
+    "Beastiary/Vampire/Vampiric Mountain Lion.md",
+    "Beastiary/Vampire/Whelp.md",
+    "Beastiary/Weapons/Weapon Key words/Ammunition.md",
+    "Beastiary/Weapons/Weapon Key words/Crude.md",
+    "Beastiary/Weapons/Weapon Key words/Finesse.md",
+    "Beastiary/Weapons/Weapon Key words/Heavy.md",
+    "Beastiary/Weapons/Weapon Key words/Key words.md",
+    "Beastiary/Weapons/Weapon Key words/Lance.md",
+    "Beastiary/Weapons/Weapon Key words/Light.md",
+    "Beastiary/Weapons/Weapon Key words/Loading.md",
+    "Beastiary/Weapons/Weapon Key words/Martial.md",
+    "Beastiary/Weapons/Weapon Key words/Silvered.md",
+    "Beastiary/Weapons/Weapon Key words/Thrown.md",
+    "Beastiary/Weapons/Weapon Key words/Two-Handed.md",
+    "Beastiary/Weapons/Weapon Key words/Versatile.md",
+    "Beastiary/Weapons/Battle axe.md",
+    "Beastiary/Weapons/Bite.md",
+    "Beastiary/Weapons/Crude Tools.md",
+    "Beastiary/Weapons/Light Crossbow.md",
+    "Beastiary/Weapons/Scimitar.md",
+    "Beastiary/Weapons/Spear.md",
+    "Beastiary/Weapons/Weapons.md",
+    "Beastiary/Bestiary.md",
+    "Beastiary/Boss.md",
+    "Beastiary/Fodder.md",
+    "Beastiary/Mini-Boss.md",
+    "Beastiary/Specialist.md",
+    "Beastiary/Squad leader.md",
+    "Beastiary/Unique.md",
+    "Bmet/Bmet.md",
+    "Go Team Edge Lord/Artwork/Arata_the_Patient.jpg",
+    "Go Team Edge Lord/Artwork/attic whisper.jpg",
+    "Go Team Edge Lord/Artwork/cat girl cleric.jpg",
+    "Go Team Edge Lord/Artwork/e8608c9c-7401-454a-be55-d1475f4a7c3d.jpg",
+    "Go Team Edge Lord/Artwork/elf.png",
+    "Go Team Edge Lord/Artwork/OIG.jpg",
+    "Go Team Edge Lord/Artwork/OIG.ASNzT26VSuvNtrr.jpg",
+    "Go Team Edge Lord/Artwork/OIG.ewPjTZ9u.jpg",
+    "Go Team Edge Lord/Artwork/OIG2.jpg",
+    "Go Team Edge Lord/Artwork/OIG2 (1).jpg",
+    "Go Team Edge Lord/Artwork/OIG2.qXfuR84zMp6Jbt.jpg",
+    "Go Team Edge Lord/Artwork/OIG4.GQizYTvyXQBzmmQ0T.jpg",
+    "Go Team Edge Lord/Artwork/Orc_Barbarian.jpg",
+    "Go Team Edge Lord/Artwork/Rygat.png",
+    "Go Team Edge Lord/Artwork/the captain.jpg",
+    "Go Team Edge Lord/Artwork/The Giant.jpg",
+    "Go Team Edge Lord/Artwork/the guard leader.jpg",
+    "Go Team Edge Lord/Artwork/the guards.jpg",
+    "Go Team Edge Lord/Artwork/the Hounds.jpg",
+    "Go Team Edge Lord/Artwork/The prisioner.jpg",
+    "Go Team Edge Lord/Artwork/The Scout.jpg",
+    "Go Team Edge Lord/Artwork/Tiefling.jpg",
+    "Go Team Edge Lord/Lore/Factions/Ash vale marches Halfling Mafia/Ash vale marches Halfling Mafia.md",
+    "Go Team Edge Lord/Lore/Factions/Ash vale marches Halfling Mafia/Associate.md",
+    "Go Team Edge Lord/Lore/Factions/Ash vale marches Halfling Mafia/Made.md",
+    "Go Team Edge Lord/Lore/Factions/Sizes/International.md",
+    "Go Team Edge Lord/Lore/Factions/Sizes/Local.md",
+    "Go Team Edge Lord/Lore/Factions/Sizes/Major.md",
+    "Go Team Edge Lord/Lore/Factions/Sizes/Minor.md",
+    "Go Team Edge Lord/Lore/Factions/Sizes/National.md",
+    "Go Team Edge Lord/Lore/Factions/Sizes/Regional.md",
+    "Go Team Edge Lord/Lore/Factions/Sizes/Size.md",
+    "Go Team Edge Lord/Lore/Factions/States/Distrusted.md",
+    "Go Team Edge Lord/Lore/Factions/States/Favoured.md",
+    "Go Team Edge Lord/Lore/Factions/States/Kill on site.md",
+    "Go Team Edge Lord/Lore/Factions/States/Loved.md",
+    "Go Team Edge Lord/Lore/Factions/States/Outsider.md",
+    "Go Team Edge Lord/Lore/Factions/States/Respected.md",
+    "Go Team Edge Lord/Lore/Factions/States/States.md",
+    "Go Team Edge Lord/Lore/Factions/States/trusted.md",
+    "Go Team Edge Lord/Lore/Factions/States/Unwelcome.md",
+    "Go Team Edge Lord/Lore/Factions/States/Vilified.md",
+    "Go Team Edge Lord/Lore/Factions/Ashvale Marches militia.md",
+    "Go Team Edge Lord/Lore/Factions/Council of nine.md",
+    "Go Team Edge Lord/Lore/Factions/Cult of the hanged man.md",
+    "Go Team Edge Lord/Lore/Factions/Factions.md",
+    "Go Team Edge Lord/Lore/Factions/Hunters Guild.md",
+    "Go Team Edge Lord/Lore/Factions/Merchants Guild.md",
+    "Go Team Edge Lord/Lore/Factions/Raven group.md",
+    "Go Team Edge Lord/Lore/Factions/Slayer cults.md",
+    "Go Team Edge Lord/Lore/Factions/The burned Church.md",
+    "Go Team Edge Lord/Lore/Factions/The Crimson Court.md",
+    "Go Team Edge Lord/Lore/Factions/The Cursed Guards.md",
+    "Go Team Edge Lord/Lore/Factions/wandering war host.md",
+    "Go Team Edge Lord/Lore/Languages/Ancient.md",
+    "Go Team Edge Lord/Lore/Languages/Cleric.md",
+    "Go Team Edge Lord/Lore/Languages/Common.md",
+    "Go Team Edge Lord/Lore/Languages/Draconic.md",
+    "Go Team Edge Lord/Lore/Languages/Druidic.md",
+    "Go Team Edge Lord/Lore/Languages/Dwarven Runes.md",
+    "Go Team Edge Lord/Lore/Languages/Elvish.md",
+    "Go Team Edge Lord/Lore/Languages/Fae.md",
+    "Go Team Edge Lord/Lore/Languages/High.md",
+    "Go Team Edge Lord/Lore/Languages/Languages.md",
+    "Go Team Edge Lord/Lore/Languages/Orcish.md",
+    "Go Team Edge Lord/Lore/Languages/Thieves Cant.md",
+    "Go Team Edge Lord/Lore/Locations/Regions/Ashvale marches.md",
+    "Go Team Edge Lord/Lore/Locations/Regions/List of regions.md",
+    "Go Team Edge Lord/Lore/Locations/Ashbloom.md",
+    "Go Team Edge Lord/Lore/Locations/Ashvale.md",
+    "Go Team Edge Lord/Lore/Locations/Bitter Frost.md",
+    "Go Team Edge Lord/Lore/Locations/Crimson court armoured wagon train.md",
+    "Go Team Edge Lord/Lore/Locations/Great palisade.md",
+    "Go Team Edge Lord/Lore/Locations/Guild armoured wagon train.md",
+    "Go Team Edge Lord/Lore/Locations/Kow-Loon.md",
+    "Go Team Edge Lord/Lore/Locations/List of Locations.md",
+    "Go Team Edge Lord/Lore/Locations/Murk Wood.md",
+    "Go Team Edge Lord/Lore/Locations/Raven point.md",
+    "Go Team Edge Lord/Lore/Locations/the cursed prison.md",
+    "Go Team Edge Lord/Lore/Locations/The Vampiric mountain lions den.md",
+    "Go Team Edge Lord/Lore/Locations/Ventus Castellum.md",
+    "Go Team Edge Lord/Lore/Locations/Willowmoor.md",
+    "Go Team Edge Lord/Lore/NPC's/Antagonists/The anti party/Arcane Archer the end.md",
+    "Go Team Edge Lord/Lore/NPC's/Antagonists/The anti party/Circle of spores druid.md",
+    "Go Team Edge Lord/Lore/NPC's/Antagonists/The anti party/Gloom stalker ranger.md",
+    "Go Team Edge Lord/Lore/NPC's/Antagonists/The anti party/Paladin (sundowner).md",
+    "Go Team Edge Lord/Lore/NPC's/Antagonists/The anti party/The anti party.md",
+    "Go Team Edge Lord/Lore/NPC's/Antagonists/The anti party/Warlock.md",
+    "Go Team Edge Lord/Lore/NPC's/Antagonists/Antagonists.md",
+    "Go Team Edge Lord/Lore/NPC's/Antagonists/Queen of the crimson court.md",
+    "Go Team Edge Lord/Lore/NPC's/Antagonists/The council of nine.md",
+    "Go Team Edge Lord/Lore/NPC's/Friendlies/Friendlies.md",
+    "Go Team Edge Lord/Lore/NPC's/Friendlies/Urist 'Cragspliter' Datan-Adil.md",
+    "Go Team Edge Lord/Lore/NPC's/Neutral/Neutral.md",
+    "Go Team Edge Lord/Lore/NPC's/Neutral/The Crow.md",
+    "Go Team Edge Lord/Lore/NPC's/Neutral/The Driver.md",
+    "Go Team Edge Lord/Lore/NPC's/Neutral/The engineer.md",
+    "Go Team Edge Lord/Lore/NPC's/NPC's.md",
+    "Go Team Edge Lord/Lore/Races/Damphir.md",
+    "Go Team Edge Lord/Lore/Races/Dragonborn.md",
+    "Go Team Edge Lord/Lore/Races/Dwarfs.md",
+    "Go Team Edge Lord/Lore/Races/Elves.md",
+    "Go Team Edge Lord/Lore/Races/Goblins.md",
+    "Go Team Edge Lord/Lore/Races/Humans.md",
+    "Go Team Edge Lord/Lore/Races/kobolds.md",
+    "Go Team Edge Lord/Lore/Races/Orcs.md",
+    "Go Team Edge Lord/Lore/Races/Races.md",
+    "Go Team Edge Lord/Lore/Races/Small Folk.md",
+    "Go Team Edge Lord/Lore/Races/Tieflings.md",
+    "Go Team Edge Lord/Lore/Races/True Fae.md",
+    "Go Team Edge Lord/Lore/Races/True vampires.md",
+    "Go Team Edge Lord/Lore/Religion/Gods/Ares.md",
+    "Go Team Edge Lord/Lore/Religion/Gods/Ares Boons.md",
+    "Go Team Edge Lord/Lore/Religion/Gods/Ashen King.md",
+    "Go Team Edge Lord/Lore/Religion/Gods/Ashen King Boons.md",
+    "Go Team Edge Lord/Lore/Religion/Gods/Fenri.md",
+    "Go Team Edge Lord/Lore/Religion/Gods/Fenri Boons.md",
+    "Go Team Edge Lord/Lore/Religion/Gods/Fulcrum.md",
+    "Go Team Edge Lord/Lore/Religion/Gods/Fulcrum Boons.md",
+    "Go Team Edge Lord/Lore/Religion/Gods/Gaia Diony.md",
+    "Go Team Edge Lord/Lore/Religion/Gods/Gaia Diony Boons.md",
+    "Go Team Edge Lord/Lore/Religion/Gods/Huginn and Muninn.md",
+    "Go Team Edge Lord/Lore/Religion/Gods/Huginn and Muninn Boons.md",
+    "Go Team Edge Lord/Lore/Religion/Gods/Ordo.md",
+    "Go Team Edge Lord/Lore/Religion/Gods/Ordo Boons.md",
+    "Go Team Edge Lord/Lore/Religion/Gods/Proteus.md",
+    "Go Team Edge Lord/Lore/Religion/Gods/Proteus Boons.md",
+    "Go Team Edge Lord/Lore/Religion/Gods/Vigo.md",
+    "Go Team Edge Lord/Lore/Religion/Gods/Vigo Boons.md",
+    "Go Team Edge Lord/Lore/Religion/Religious sites/Ares Proving ground.md",
+    "Go Team Edge Lord/Lore/Religion/Religious sites/Funeral parlour.md",
+    "Go Team Edge Lord/Lore/Religion/Religious sites/Shrine of Vigo.md",
+    "Go Team Edge Lord/Lore/Religion/Religious sites/The church of Ordo.md",
+    "Go Team Edge Lord/Lore/Religion/Boons.md",
+    "Go Team Edge Lord/Lore/Religion/Religion.md",
+    "Go Team Edge Lord/Lore/Timeline/Timeline.md",
+    "Go Team Edge Lord/Lore/Curses.md",
+    "Go Team Edge Lord/Lore/Economics.md",
+    "Go Team Edge Lord/Lore/Lore.md",
+    "Go Team Edge Lord/Lore/The Cursed.md",
+    "Go Team Edge Lord/Magical items/Player items/Advance harpoonery.md",
+    "Go Team Edge Lord/Magical items/Player items/Amulet of finesse.md",
+    "Go Team Edge Lord/Magical items/Player items/Belt of metabolism.md",
+    "Go Team Edge Lord/Magical items/Player items/Gauntlets of hill giants might.md",
+    "Go Team Edge Lord/Magical items/Player items/Hilt of Victory.md",
+    "Go Team Edge Lord/Magical items/Player items/Kawflev’s Vessel.md",
+    "Go Team Edge Lord/Magical items/Player items/Ring of remote viewing.md",
+    "Go Team Edge Lord/Magical items/Player items/Scrying orb of the past.md",
+    "Go Team Edge Lord/Magical items/Player items/The Bat blessed cloak.md",
+    "Go Team Edge Lord/Magical items/Magical Items.md",
+    "Go Team Edge Lord/Maps/Dungeon maps/A hunt is at foot.png",
+    "Go Team Edge Lord/Maps/Dungeon maps/An unexpected addition to an expected journey.png",
+    "Go Team Edge Lord/Maps/Dungeon maps/the Cursed prision 1.png",
+    "Go Team Edge Lord/Maps/Dungeon maps/the Cursed prision 2.png",
+    "Go Team Edge Lord/Maps/Dungeon maps/the Cursed prision 3.png",
+    "Go Team Edge Lord/Maps/Ashvale Marches.png",
+    "Go Team Edge Lord/Missions/A flock without a shepard/A flock without a shepard.md",
+    "Go Team Edge Lord/Missions/A flock without a shepard/A hunt is at foot.md",
+    "Go Team Edge Lord/Missions/A flock without a shepard/Clearing the grave yard.md",
+    "Go Team Edge Lord/Missions/A flock without a shepard/Defence of willowmoor.md",
+    "Go Team Edge Lord/Missions/A flock without a shepard/Investigating the church.md",
+    "Go Team Edge Lord/Missions/An unexpected addition to an expected journey/A warning from the king.md",
+    "Go Team Edge Lord/Missions/An unexpected addition to an expected journey/An unexpected addition to an expected journey.md",
+    "Go Team Edge Lord/Missions/An unexpected addition to an expected journey/Bandit ambush.md",
+    "Go Team Edge Lord/Missions/An unexpected addition to an expected journey/bandit blockade.md",
+    "Go Team Edge Lord/Missions/An unexpected addition to an expected journey/Draugr ambush.md",
+    "Go Team Edge Lord/Missions/An unexpected addition to an expected journey/Leaving the bandit kings realm.md",
+    "Go Team Edge Lord/Missions/An unexpected addition to an expected journey/Rider Raid.md",
+    "Go Team Edge Lord/Missions/The Cursed prison/the Cursed prison.md",
+    "Go Team Edge Lord/Missions/Missions.md",
+    "Go Team Edge Lord/Party members/The bard.md",
+    "Go Team Edge Lord/Party members/the cat girl cleric.md",
+    "Go Team Edge Lord/Party members/The clobberer.md",
+    "Go Team Edge Lord/Party members/The fairy.md",
+    "Go Team Edge Lord/Party members/The fighter Lizard.md",
+    "Go Team Edge Lord/Party members/The Monk.md",
+    "Go Team Edge Lord/Party members/The party.md",
+    "Go Team Edge Lord/Party members/The Rogue.md",
+    "Go Team Edge Lord/Party members/The Samurai.md",
+    "Go Team Edge Lord/Party members/The Wizard.md",
+    "Go Team Edge Lord/Dm Screen GTEL.canvas",
+    "Go Team Edge Lord/Go Team Edge Lord.md",
+    "Rules/Biome data/Ash marsh.md",
+    "Rules/Biome data/Ash wastes.md",
+    "Rules/Biome data/Biome data.md",
+    "Rules/Biome data/Forest.md",
+    "Rules/Biome data/Tundra.md",
+    "Rules/Buildings, rooms and hirelings/Buildings/Armoury.md",
+    "Rules/Buildings, rooms and hirelings/Buildings/Buildings.md",
+    "Rules/Buildings, rooms and hirelings/Buildings/Keep.md",
+    "Rules/Buildings, rooms and hirelings/Buildings/Slots.md",
+    "Rules/Buildings, rooms and hirelings/Defences/Defences.md",
+    "Rules/Buildings, rooms and hirelings/Facilities/Animal pen.md",
+    "Rules/Buildings, rooms and hirelings/Facilities/Armoury (facility).md",
+    "Rules/Buildings, rooms and hirelings/Facilities/Brewery.md",
+    "Rules/Buildings, rooms and hirelings/Facilities/Facilities.md",
+    "Rules/Buildings, rooms and hirelings/Facilities/Hall.md",
+    "Rules/Buildings, rooms and hirelings/Facilities/Kitchen.md",
+    "Rules/Buildings, rooms and hirelings/Facilities/Well.md",
+    "Rules/Buildings, rooms and hirelings/Hirelings/Hirelings.md",
+    "Rules/Buildings, rooms and hirelings/Rooms sizes/Enormous room.md",
+    "Rules/Buildings, rooms and hirelings/Rooms sizes/Huge Room.md",
+    "Rules/Buildings, rooms and hirelings/Rooms sizes/Large room.md",
+    "Rules/Buildings, rooms and hirelings/Rooms sizes/Medium room.md",
+    "Rules/Buildings, rooms and hirelings/Rooms sizes/Room sizes.md",
+    "Rules/Buildings, rooms and hirelings/Rooms sizes/Small Room.md",
+    "Rules/Buildings, rooms and hirelings/Rooms sizes/Tiny Room.md",
+    "Rules/Buildings, rooms and hirelings/Sites/Site Features/Site features.md",
+    "Rules/Buildings, rooms and hirelings/Sites/Castle.md",
+    "Rules/Buildings, rooms and hirelings/Sites/Fort.md",
+    "Rules/Buildings, rooms and hirelings/Sites/Fortress.md",
+    "Rules/Buildings, rooms and hirelings/Sites/Sites.md",
+    "Rules/Buildings, rooms and hirelings/Buildings and player owned settlements.md",
+    "Rules/Buildings, rooms and hirelings/Taxes.md",
+    "Rules/Crafting/Artisan tools/Brewing.md",
+    "Rules/Crafting/Artisan tools/Cooking.md",
+    "Rules/Crafting/Artisan tools/Masonry.md",
+    "Rules/Crafting/Artisan tools/Smithing.md",
+    "Rules/Crafting/Gathering/Digging.md",
+    "Rules/Crafting/Gathering/Foraging.md",
+    "Rules/Crafting/Gathering/Mining.md",
+    "Rules/Crafting/Gathering/Wood cutting.md",
+    "Rules/Crafting/Crafting.md",
+    "Rules/POI's/Cairn.md",
+    "Rules/POI's/POI's.md",
+    "Rules/Camping.md",
+    "Rules/Combat.md",
+    "Rules/Degrees of success.md",
+    "Rules/Dissociate skills.md",
+    "Rules/Exhaustion.md",
+    "Rules/Generic money.md",
+    "Rules/Insomnia.md",
+    "Rules/Rolling for magic and magic perils.md",
+    "Rules/Rules.md",
+    "Sibling campaign/Lore/Factions/Factions.md",
+    "Sibling campaign/Lore/Factions/Forsworn.md",
+    "Sibling campaign/Lore/Factions/Hags of witch muck.md",
+    "Sibling campaign/Lore/Factions/The kingdom of Ashvale.md",
+    "Sibling campaign/Lore/Locations/Regions/Ashvale reaches.md",
+    "Sibling campaign/Lore/Locations/Regions/Regions.md",
+    "Sibling campaign/Lore/Locations/Ashvale (Sibling).md",
+    "Sibling campaign/Lore/Locations/Castle witch muck.md",
+    "Sibling campaign/Lore/Locations/Locations.md",
+    "Sibling campaign/Lore/Locations/Monk barrow.md",
+    "Sibling campaign/Lore/Locations/old hunters cabin.md",
+    "Sibling campaign/Lore/Locations/Sunken city.md",
+    "Sibling campaign/Lore/Locations/The Fort.md",
+    "Sibling campaign/Lore/Lore.md",
+    "Sibling campaign/Sibling campaign.md",
+    "Templates/Ability.md",
+    "Templates/Biome.md",
+    "Templates/Building.md",
+    "Templates/Dungeon.md",
+    "Templates/Encounter.md",
+    "Templates/Enemy.md",
+    "Templates/Facility.md",
+    "Templates/Faction.md",
+    "Templates/Generic templates.md",
+    "Templates/God.md",
+    "Templates/Historical Event.md",
+    "Templates/Keyword.md",
+    "Templates/Mission.md",
+    "Templates/NPC.md",
+    "Templates/Player.md",
+    "Templates/Race.md",
+    "Templates/Site.md",
+    "Templates/Town.md",
+    "Templates/Weapon.md",
+    "Index.md",
+    "lib/media/oig2.jpg",
+    "lib/media/oig2.qxfur84zmp6jbt.jpg",
+    "lib/media/oig4.gqizytvyxqbzmmq0t.jpg",
+    "lib/media/the-guards.jpg",
+    "lib/media/the-captain.jpg",
+    "lib/media/the-hounds.jpg",
+    "lib/media/the-guard-leader.jpg",
+    "lib/media/the-giant.jpg",
+    "lib/media/oig.jpg",
+    "lib/media/oig.asnzt26vsuvntrr.jpg",
+    "lib/media/the-scout.jpg",
+    "lib/media/oig.ewpjtz9u.jpg",
+    "lib/media/ashvale-marches.png",
+    "lib/media/an-unexpected-addition-to-an-expected-journey.png",
+    "lib/media/the-cursed-prision-3.png",
+    "lib/media/the-cursed-prision-1.png",
+    "lib/media/the-cursed-prision-2.png",
+    "lib/media/a-hunt-is-at-foot.png",
+    "lib/media/oig2-(1).jpg",
+    "lib/media/attic-whisper.jpg",
+    "lib/media/the-prisioner.jpg",
+    "lib/media/cat-girl-cleric.jpg",
+    "lib/media/orc_barbarian.jpg",
+    "lib/media/e8608c9c-7401-454a-be55-d1475f4a7c3d.jpg",
+    "lib/media/tiefling.jpg",
+    "lib/media/elf.png",
+    "lib/media/arata_the_patient.jpg",
+    "lib/media/rygat.png",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "Beastiary/Abilities/Passive/Dwarven Armor Training.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 56,
+      "exportedPath": "beastiary/abilities/passive/dwarven-armor-training.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Passive/Dwarven Combat training.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 107,
+      "exportedPath": "beastiary/abilities/passive/dwarven-combat-training.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Passive/Dwarven resistance.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 125,
+      "exportedPath": "beastiary/abilities/passive/dwarven-resistance.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Passive/Keen Hearing and Smell.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 87,
+      "exportedPath": "beastiary/abilities/passive/keen-hearing-and-smell.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Passive/Passive.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 37,
+      "exportedPath": "beastiary/abilities/passive/passive.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Passive/Undead Fortitude.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 230,
+      "exportedPath": "beastiary/abilities/passive/undead-fortitude.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Spell Turning/Spell Turning.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 231,
+      "exportedPath": "beastiary/abilities/spell-turning/spell-turning.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Spell Turning/Spell Turning 0 (cantrip).md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 316,
+      "exportedPath": "beastiary/abilities/spell-turning/spell-turning-0-(cantrip).html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Spell Turning/Spell Turning 1.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 316,
+      "exportedPath": "beastiary/abilities/spell-turning/spell-turning-1.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Spell Turning/Spell Turning 2.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 316,
+      "exportedPath": "beastiary/abilities/spell-turning/spell-turning-2.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Spell Turning/Spell Turning 3.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 316,
+      "exportedPath": "beastiary/abilities/spell-turning/spell-turning-3.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Spell Turning/Spell Turning 4.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 316,
+      "exportedPath": "beastiary/abilities/spell-turning/spell-turning-4.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Spell Turning/Spell Turning 5.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 316,
+      "exportedPath": "beastiary/abilities/spell-turning/spell-turning-5.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Spell Turning/Spell Turning 6.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 316,
+      "exportedPath": "beastiary/abilities/spell-turning/spell-turning-6.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Spell Turning/Spell Turning 7.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 316,
+      "exportedPath": "beastiary/abilities/spell-turning/spell-turning-7.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Spell Turning/Spell Turning 8.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 316,
+      "exportedPath": "beastiary/abilities/spell-turning/spell-turning-8.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Spell Turning/Spell Turning 9.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 316,
+      "exportedPath": "beastiary/abilities/spell-turning/spell-turning-9.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Spell Turning/Spell Turning 10.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 316,
+      "exportedPath": "beastiary/abilities/spell-turning/spell-turning-10.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/A father to his men.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 207,
+      "exportedPath": "beastiary/abilities/a-father-to-his-men.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Abilities.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 44,
+      "exportedPath": "beastiary/abilities/abilities.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/And I shall endure.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 153,
+      "exportedPath": "beastiary/abilities/and-i-shall-endure.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Aspect of the artisan.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 156,
+      "exportedPath": "beastiary/abilities/aspect-of-the-artisan.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Aspect of the hierophant.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 149,
+      "exportedPath": "beastiary/abilities/aspect-of-the-hierophant.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Aspect of the Slayer.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 233,
+      "exportedPath": "beastiary/abilities/aspect-of-the-slayer.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Beastial might.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 190,
+      "exportedPath": "beastiary/abilities/beastial-might.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Beastial Speed.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 185,
+      "exportedPath": "beastiary/abilities/beastial-speed.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Bigger they are.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 67,
+      "exportedPath": "beastiary/abilities/bigger-they-are.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Blessed foraging.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 77,
+      "exportedPath": "beastiary/abilities/blessed-foraging.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Blessed husbandry.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 85,
+      "exportedPath": "beastiary/abilities/blessed-husbandry.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Blessings of the forge.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 57,
+      "exportedPath": "beastiary/abilities/blessings-of-the-forge.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Boon.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 35,
+      "exportedPath": "beastiary/abilities/boon.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Cavalry.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 122,
+      "exportedPath": "beastiary/abilities/cavalry.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Claw.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 129,
+      "exportedPath": "beastiary/abilities/claw.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Cleansing fire.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 159,
+      "exportedPath": "beastiary/abilities/cleansing-fire.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Combat.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 37,
+      "exportedPath": "beastiary/abilities/combat.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Common Leadership.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 488,
+      "exportedPath": "beastiary/abilities/common-leadership.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Death Wills it.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "beastiary/abilities/death-wills-it.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Endurance.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 33,
+      "exportedPath": "beastiary/abilities/endurance.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Every lie is a truth.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "beastiary/abilities/every-lie-is-a-truth.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Every truth is a lie.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "beastiary/abilities/every-truth-is-a-lie.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Fertilising the field.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 96,
+      "exportedPath": "beastiary/abilities/fertilising-the-field.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Focus Down.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 246,
+      "exportedPath": "beastiary/abilities/focus-down.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Harder they fall.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "beastiary/abilities/harder-they-fall.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Hooves.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 168,
+      "exportedPath": "beastiary/abilities/hooves.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/I shall stand against them.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 142,
+      "exportedPath": "beastiary/abilities/i-shall-stand-against-them.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Last rites.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 59,
+      "exportedPath": "beastiary/abilities/last-rites.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Leadership.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 43,
+      "exportedPath": "beastiary/abilities/leadership.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Lesser Leadership.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 488,
+      "exportedPath": "beastiary/abilities/lesser-leadership.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Magic.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "beastiary/abilities/magic.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Multi Attack.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 150,
+      "exportedPath": "beastiary/abilities/multi-attack.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Of Artifice and  artistry.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 55,
+      "exportedPath": "beastiary/abilities/of-artifice-and-artistry.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Pack tactics.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 255,
+      "exportedPath": "beastiary/abilities/pack-tactics.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Parry.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 144,
+      "exportedPath": "beastiary/abilities/parry.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Pounce.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 284,
+      "exportedPath": "beastiary/abilities/pounce.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Rage.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 126,
+      "exportedPath": "beastiary/abilities/rage.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Rally.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 246,
+      "exportedPath": "beastiary/abilities/rally.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Resolute.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 143,
+      "exportedPath": "beastiary/abilities/resolute.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/The art of the siege breaker.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 129,
+      "exportedPath": "beastiary/abilities/the-art-of-the-siege-breaker.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/The weakest link.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 77,
+      "exportedPath": "beastiary/abilities/the-weakest-link.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/the wild hunt.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 117,
+      "exportedPath": "beastiary/abilities/the-wild-hunt.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Trample.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 253,
+      "exportedPath": "beastiary/abilities/trample.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Unless you know what your doing.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "beastiary/abilities/unless-you-know-what-your-doing.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Vampiric Drain.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 6,
+      "exportedPath": "beastiary/abilities/vampiric-drain.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Vampiric Regeneration.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 41,
+      "exportedPath": "beastiary/abilities/vampiric-regeneration.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/War call.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 200,
+      "exportedPath": "beastiary/abilities/war-call.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/You don't interfere with death.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 46,
+      "exportedPath": "beastiary/abilities/you-don't-interfere-with-death.html",
+      "dependencies": []
+    },
+    "Beastiary/Bandit/Bandit.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 491,
+      "exportedPath": "beastiary/bandit/bandit.html",
+      "dependencies": []
+    },
+    "Beastiary/Bandit/Bandit barricade.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 456,
+      "exportedPath": "beastiary/bandit/bandit-barricade.html",
+      "dependencies": []
+    },
+    "Beastiary/Bandit/Bandit Boss.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 55,
+      "exportedPath": "beastiary/bandit/bandit-boss.html",
+      "dependencies": []
+    },
+    "Beastiary/Bandit/Bandit Captain.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 619,
+      "exportedPath": "beastiary/bandit/bandit-captain.html",
+      "dependencies": []
+    },
+    "Beastiary/Bandit/Bandit Fodder.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 59,
+      "exportedPath": "beastiary/bandit/bandit-fodder.html",
+      "dependencies": []
+    },
+    "Beastiary/Bandit/Bandit Footman.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 479,
+      "exportedPath": "beastiary/bandit/bandit-footman.html",
+      "dependencies": []
+    },
+    "Beastiary/Bandit/Bandit Footman Sergeant.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 497,
+      "exportedPath": "beastiary/bandit/bandit-footman-sergeant.html",
+      "dependencies": []
+    },
+    "Beastiary/Bandit/Bandit Hound.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 736,
+      "exportedPath": "beastiary/bandit/bandit-hound.html",
+      "dependencies": []
+    },
+    "Beastiary/Bandit/Bandit mini-boss.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 45,
+      "exportedPath": "beastiary/bandit/bandit-mini-boss.html",
+      "dependencies": []
+    },
+    "Beastiary/Bandit/Bandit pack master.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 882,
+      "exportedPath": "beastiary/bandit/bandit-pack-master.html",
+      "dependencies": []
+    },
+    "Beastiary/Bandit/Bandit Rider.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 984,
+      "exportedPath": "beastiary/bandit/bandit-rider.html",
+      "dependencies": [
+        "lib/media/oig2.jpg"
+      ]
+    },
+    "Beastiary/Bandit/Bandit Rider Sergeant.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 901,
+      "exportedPath": "beastiary/bandit/bandit-rider-sergeant.html",
+      "dependencies": [
+        "lib/media/oig2.qxfur84zmp6jbt.jpg"
+      ]
+    },
+    "Beastiary/Bandit/Bandit sharpshooter.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 374,
+      "exportedPath": "beastiary/bandit/bandit-sharpshooter.html",
+      "dependencies": []
+    },
+    "Beastiary/Bandit/Bandit Specialist.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 64,
+      "exportedPath": "beastiary/bandit/bandit-specialist.html",
+      "dependencies": []
+    },
+    "Beastiary/Bandit/Bandit Squad leader.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 65,
+      "exportedPath": "beastiary/bandit/bandit-squad-leader.html",
+      "dependencies": []
+    },
+    "Beastiary/Bandit/Bandit unique.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 59,
+      "exportedPath": "beastiary/bandit/bandit-unique.html",
+      "dependencies": []
+    },
+    "Beastiary/Bandit/Bandit warlord.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 575,
+      "exportedPath": "beastiary/bandit/bandit-warlord.html",
+      "dependencies": []
+    },
+    "Beastiary/Bandit/Ulf Blackthorne.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 596,
+      "exportedPath": "beastiary/bandit/ulf-blackthorne.html",
+      "dependencies": [
+        "lib/media/oig4.gqizytvyxqbzmmq0t.jpg"
+      ]
+    },
+    "Beastiary/Barbaric/Barbaric.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 523,
+      "exportedPath": "beastiary/barbaric/barbaric.html",
+      "dependencies": []
+    },
+    "Beastiary/Barbaric/Barbaric Boss.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "beastiary/barbaric/barbaric-boss.html",
+      "dependencies": []
+    },
+    "Beastiary/Barbaric/Barbaric mini-boss.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "beastiary/barbaric/barbaric-mini-boss.html",
+      "dependencies": []
+    },
+    "Beastiary/Barbaric/Barbaric Specialist.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "beastiary/barbaric/barbaric-specialist.html",
+      "dependencies": []
+    },
+    "Beastiary/Barbaric/Barbaric Squad Leader.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "beastiary/barbaric/barbaric-squad-leader.html",
+      "dependencies": []
+    },
+    "Beastiary/Barbaric/barbaric unique.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "beastiary/barbaric/barbaric-unique.html",
+      "dependencies": []
+    },
+    "Beastiary/Barbaric/Foresworn.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 537,
+      "exportedPath": "beastiary/barbaric/foresworn.html",
+      "dependencies": []
+    },
+    "Beastiary/Barbaric/Foresworn Archer.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 631,
+      "exportedPath": "beastiary/barbaric/foresworn-archer.html",
+      "dependencies": []
+    },
+    "Beastiary/Barbaric/Foresworn briar heart.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 425,
+      "exportedPath": "beastiary/barbaric/foresworn-briar-heart.html",
+      "dependencies": []
+    },
+    "Beastiary/Barbaric/Foresworn shieldmadien.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 431,
+      "exportedPath": "beastiary/barbaric/foresworn-shieldmadien.html",
+      "dependencies": []
+    },
+    "Beastiary/Civilised/Civilised.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 537,
+      "exportedPath": "beastiary/civilised/civilised.html",
+      "dependencies": []
+    },
+    "Beastiary/Civilised/Civilised Boss.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 11,
+      "exportedPath": "beastiary/civilised/civilised-boss.html",
+      "dependencies": []
+    },
+    "Beastiary/Civilised/Civilised Fodder.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 57,
+      "exportedPath": "beastiary/civilised/civilised-fodder.html",
+      "dependencies": []
+    },
+    "Beastiary/Civilised/Civilised Mini-Boss.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 11,
+      "exportedPath": "beastiary/civilised/civilised-mini-boss.html",
+      "dependencies": []
+    },
+    "Beastiary/Civilised/Civilised Specialist.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 11,
+      "exportedPath": "beastiary/civilised/civilised-specialist.html",
+      "dependencies": []
+    },
+    "Beastiary/Civilised/Civilised Squad Leader.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 63,
+      "exportedPath": "beastiary/civilised/civilised-squad-leader.html",
+      "dependencies": []
+    },
+    "Beastiary/Civilised/Civilised Unique.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 57,
+      "exportedPath": "beastiary/civilised/civilised-unique.html",
+      "dependencies": []
+    },
+    "Beastiary/Civilised/Guard.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 609,
+      "exportedPath": "beastiary/civilised/guard.html",
+      "dependencies": [
+        "lib/media/the-guards.jpg"
+      ]
+    },
+    "Beastiary/Civilised/guard captain.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 613,
+      "exportedPath": "beastiary/civilised/guard-captain.html",
+      "dependencies": [
+        "lib/media/the-captain.jpg"
+      ]
+    },
+    "Beastiary/Civilised/Guard hound.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 605,
+      "exportedPath": "beastiary/civilised/guard-hound.html",
+      "dependencies": [
+        "lib/media/the-hounds.jpg"
+      ]
+    },
+    "Beastiary/Civilised/Guard sergeant.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 621,
+      "exportedPath": "beastiary/civilised/guard-sergeant.html",
+      "dependencies": [
+        "lib/media/the-guard-leader.jpg"
+      ]
+    },
+    "Beastiary/Civilised/The Cursed giant.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 416,
+      "exportedPath": "beastiary/civilised/the-cursed-giant.html",
+      "dependencies": [
+        "lib/media/the-giant.jpg"
+      ]
+    },
+    "Beastiary/CR/CR.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 209,
+      "exportedPath": "beastiary/cr/cr.html",
+      "dependencies": []
+    },
+    "Beastiary/CR/CR 1.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 41,
+      "exportedPath": "beastiary/cr/cr-1.html",
+      "dependencies": []
+    },
+    "Beastiary/CR/CR 1-2.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 44,
+      "exportedPath": "beastiary/cr/cr-1-2.html",
+      "dependencies": []
+    },
+    "Beastiary/CR/CR 1-4.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 44,
+      "exportedPath": "beastiary/cr/cr-1-4.html",
+      "dependencies": []
+    },
+    "Beastiary/CR/CR 1-8.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 45,
+      "exportedPath": "beastiary/cr/cr-1-8.html",
+      "dependencies": []
+    },
+    "Beastiary/CR/CR 2.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 35,
+      "exportedPath": "beastiary/cr/cr-2.html",
+      "dependencies": []
+    },
+    "Beastiary/CR/CR 3.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 35,
+      "exportedPath": "beastiary/cr/cr-3.html",
+      "dependencies": []
+    },
+    "Beastiary/CR/CR 30.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 35,
+      "exportedPath": "beastiary/cr/cr-30.html",
+      "dependencies": []
+    },
+    "Beastiary/Others/Others.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 477,
+      "exportedPath": "beastiary/others/others.html",
+      "dependencies": []
+    },
+    "Beastiary/Others/the Other of lust.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 600,
+      "exportedPath": "beastiary/others/the-other-of-lust.html",
+      "dependencies": [
+        "lib/media/oig.jpg"
+      ]
+    },
+    "Beastiary/Undead/Lesser Drauger.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 1079,
+      "exportedPath": "beastiary/undead/lesser-drauger.html",
+      "dependencies": []
+    },
+    "Beastiary/Undead/Undead.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 58,
+      "exportedPath": "beastiary/undead/undead.html",
+      "dependencies": []
+    },
+    "Beastiary/Undead/Zombie Villager.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 533,
+      "exportedPath": "beastiary/undead/zombie-villager.html",
+      "dependencies": []
+    },
+    "Beastiary/Vampire/Crimson court agent.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 626,
+      "exportedPath": "beastiary/vampire/crimson-court-agent.html",
+      "dependencies": []
+    },
+    "Beastiary/Vampire/Ghoul kitty.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 610,
+      "exportedPath": "beastiary/vampire/ghoul-kitty.html",
+      "dependencies": [
+        "lib/media/oig.asnzt26vsuvntrr.jpg"
+      ]
+    },
+    "Beastiary/Vampire/Lesser Vampire sorcerer.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 626,
+      "exportedPath": "beastiary/vampire/lesser-vampire-sorcerer.html",
+      "dependencies": []
+    },
+    "Beastiary/Vampire/Scout.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 429,
+      "exportedPath": "beastiary/vampire/scout.html",
+      "dependencies": [
+        "lib/media/the-scout.jpg"
+      ]
+    },
+    "Beastiary/Vampire/Vampire.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 448,
+      "exportedPath": "beastiary/vampire/vampire.html",
+      "dependencies": []
+    },
+    "Beastiary/Vampire/Vampire Fodder.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 43,
+      "exportedPath": "beastiary/vampire/vampire-fodder.html",
+      "dependencies": []
+    },
+    "Beastiary/Vampire/Vampire kitten.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 628,
+      "exportedPath": "beastiary/vampire/vampire-kitten.html",
+      "dependencies": []
+    },
+    "Beastiary/Vampire/Vampiric Mountain Lion.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 625,
+      "exportedPath": "beastiary/vampire/vampiric-mountain-lion.html",
+      "dependencies": [
+        "lib/media/oig.ewpjtz9u.jpg"
+      ]
+    },
+    "Beastiary/Vampire/Whelp.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 425,
+      "exportedPath": "beastiary/vampire/whelp.html",
+      "dependencies": []
+    },
+    "Beastiary/Weapons/Weapon Key words/Ammunition.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 404,
+      "exportedPath": "beastiary/weapons/weapon-key-words/ammunition.html",
+      "dependencies": []
+    },
+    "Beastiary/Weapons/Weapon Key words/Crude.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 42,
+      "exportedPath": "beastiary/weapons/weapon-key-words/crude.html",
+      "dependencies": []
+    },
+    "Beastiary/Weapons/Weapon Key words/Finesse.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 183,
+      "exportedPath": "beastiary/weapons/weapon-key-words/finesse.html",
+      "dependencies": []
+    },
+    "Beastiary/Weapons/Weapon Key words/Heavy.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 161,
+      "exportedPath": "beastiary/weapons/weapon-key-words/heavy.html",
+      "dependencies": []
+    },
+    "Beastiary/Weapons/Weapon Key words/Key words.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 15,
+      "exportedPath": "beastiary/weapons/weapon-key-words/key-words.html",
+      "dependencies": []
+    },
+    "Beastiary/Weapons/Weapon Key words/Lance.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 153,
+      "exportedPath": "beastiary/weapons/weapon-key-words/lance.html",
+      "dependencies": []
+    },
+    "Beastiary/Weapons/Weapon Key words/Light.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 101,
+      "exportedPath": "beastiary/weapons/weapon-key-words/light.html",
+      "dependencies": []
+    },
+    "Beastiary/Weapons/Weapon Key words/Loading.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 224,
+      "exportedPath": "beastiary/weapons/weapon-key-words/loading.html",
+      "dependencies": []
+    },
+    "Beastiary/Weapons/Weapon Key words/Martial.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 39,
+      "exportedPath": "beastiary/weapons/weapon-key-words/martial.html",
+      "dependencies": []
+    },
+    "Beastiary/Weapons/Weapon Key words/Silvered.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 434,
+      "exportedPath": "beastiary/weapons/weapon-key-words/silvered.html",
+      "dependencies": []
+    },
+    "Beastiary/Weapons/Weapon Key words/Thrown.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 244,
+      "exportedPath": "beastiary/weapons/weapon-key-words/thrown.html",
+      "dependencies": []
+    },
+    "Beastiary/Weapons/Weapon Key words/Two-Handed.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 31,
+      "exportedPath": "beastiary/weapons/weapon-key-words/two-handed.html",
+      "dependencies": []
+    },
+    "Beastiary/Weapons/Weapon Key words/Versatile.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 178,
+      "exportedPath": "beastiary/weapons/weapon-key-words/versatile.html",
+      "dependencies": []
+    },
+    "Beastiary/Weapons/Battle axe.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 142,
+      "exportedPath": "beastiary/weapons/battle-axe.html",
+      "dependencies": []
+    },
+    "Beastiary/Weapons/Bite.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 123,
+      "exportedPath": "beastiary/weapons/bite.html",
+      "dependencies": []
+    },
+    "Beastiary/Weapons/Crude Tools.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 159,
+      "exportedPath": "beastiary/weapons/crude-tools.html",
+      "dependencies": []
+    },
+    "Beastiary/Weapons/Light Crossbow.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 198,
+      "exportedPath": "beastiary/weapons/light-crossbow.html",
+      "dependencies": []
+    },
+    "Beastiary/Weapons/Scimitar.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 203,
+      "exportedPath": "beastiary/weapons/scimitar.html",
+      "dependencies": []
+    },
+    "Beastiary/Weapons/Spear.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 214,
+      "exportedPath": "beastiary/weapons/spear.html",
+      "dependencies": []
+    },
+    "Beastiary/Weapons/Weapons.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 56,
+      "exportedPath": "beastiary/weapons/weapons.html",
+      "dependencies": []
+    },
+    "Beastiary/Bestiary.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 227,
+      "exportedPath": "beastiary/bestiary.html",
+      "dependencies": []
+    },
+    "Beastiary/Boss.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 26,
+      "exportedPath": "beastiary/boss.html",
+      "dependencies": []
+    },
+    "Beastiary/Fodder.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 29,
+      "exportedPath": "beastiary/fodder.html",
+      "dependencies": []
+    },
+    "Beastiary/Mini-Boss.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 31,
+      "exportedPath": "beastiary/mini-boss.html",
+      "dependencies": []
+    },
+    "Beastiary/Specialist.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 32,
+      "exportedPath": "beastiary/specialist.html",
+      "dependencies": []
+    },
+    "Beastiary/Squad leader.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 34,
+      "exportedPath": "beastiary/squad-leader.html",
+      "dependencies": []
+    },
+    "Beastiary/Unique.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 28,
+      "exportedPath": "beastiary/unique.html",
+      "dependencies": []
+    },
+    "Bmet/Bmet.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "bmet/bmet.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Artwork/Arata_the_Patient.jpg": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 9771,
+      "exportedPath": "go-team-edge-lord/artwork/arata_the_patient.jpg",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Artwork/attic whisper.jpg": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 13992,
+      "exportedPath": "go-team-edge-lord/artwork/attic-whisper.jpg",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Artwork/cat girl cleric.jpg": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 252401,
+      "exportedPath": "go-team-edge-lord/artwork/cat-girl-cleric.jpg",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Artwork/e8608c9c-7401-454a-be55-d1475f4a7c3d.jpg": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 148736,
+      "exportedPath": "go-team-edge-lord/artwork/e8608c9c-7401-454a-be55-d1475f4a7c3d.jpg",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Artwork/elf.png": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 1933942,
+      "exportedPath": "go-team-edge-lord/artwork/elf.png",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Artwork/OIG.jpg": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 196570,
+      "exportedPath": "go-team-edge-lord/artwork/oig.jpg",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Artwork/OIG.ASNzT26VSuvNtrr.jpg": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 166805,
+      "exportedPath": "go-team-edge-lord/artwork/oig.asnzt26vsuvntrr.jpg",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Artwork/OIG.ewPjTZ9u.jpg": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 166643,
+      "exportedPath": "go-team-edge-lord/artwork/oig.ewpjtz9u.jpg",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Artwork/OIG2.jpg": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 146935,
+      "exportedPath": "go-team-edge-lord/artwork/oig2.jpg",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Artwork/OIG2 (1).jpg": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 169532,
+      "exportedPath": "go-team-edge-lord/artwork/oig2-(1).jpg",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Artwork/OIG2.qXfuR84zMp6Jbt.jpg": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 140083,
+      "exportedPath": "go-team-edge-lord/artwork/oig2.qxfur84zmp6jbt.jpg",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Artwork/OIG4.GQizYTvyXQBzmmQ0T.jpg": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 153761,
+      "exportedPath": "go-team-edge-lord/artwork/oig4.gqizytvyxqbzmmq0t.jpg",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Artwork/Orc_Barbarian.jpg": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 220197,
+      "exportedPath": "go-team-edge-lord/artwork/orc_barbarian.jpg",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Artwork/Rygat.png": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 321290,
+      "exportedPath": "go-team-edge-lord/artwork/rygat.png",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Artwork/the captain.jpg": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 180870,
+      "exportedPath": "go-team-edge-lord/artwork/the-captain.jpg",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Artwork/The Giant.jpg": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 191944,
+      "exportedPath": "go-team-edge-lord/artwork/the-giant.jpg",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Artwork/the guard leader.jpg": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 147726,
+      "exportedPath": "go-team-edge-lord/artwork/the-guard-leader.jpg",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Artwork/the guards.jpg": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 175691,
+      "exportedPath": "go-team-edge-lord/artwork/the-guards.jpg",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Artwork/the Hounds.jpg": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 208994,
+      "exportedPath": "go-team-edge-lord/artwork/the-hounds.jpg",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Artwork/The prisioner.jpg": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 157236,
+      "exportedPath": "go-team-edge-lord/artwork/the-prisioner.jpg",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Artwork/The Scout.jpg": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 197599,
+      "exportedPath": "go-team-edge-lord/artwork/the-scout.jpg",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Artwork/Tiefling.jpg": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 5544,
+      "exportedPath": "go-team-edge-lord/artwork/tiefling.jpg",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Factions/Ash vale marches Halfling Mafia/Ash vale marches Halfling Mafia.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 276,
+      "exportedPath": "go-team-edge-lord/lore/factions/ash-vale-marches-halfling-mafia/ash-vale-marches-halfling-mafia.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Factions/Ash vale marches Halfling Mafia/Associate.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "go-team-edge-lord/lore/factions/ash-vale-marches-halfling-mafia/associate.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Factions/Ash vale marches Halfling Mafia/Made.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "go-team-edge-lord/lore/factions/ash-vale-marches-halfling-mafia/made.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Factions/Sizes/International.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "go-team-edge-lord/lore/factions/sizes/international.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Factions/Sizes/Local.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "go-team-edge-lord/lore/factions/sizes/local.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Factions/Sizes/Major.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "go-team-edge-lord/lore/factions/sizes/major.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Factions/Sizes/Minor.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "go-team-edge-lord/lore/factions/sizes/minor.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Factions/Sizes/National.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "go-team-edge-lord/lore/factions/sizes/national.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Factions/Sizes/Regional.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "go-team-edge-lord/lore/factions/sizes/regional.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Factions/Sizes/Size.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 74,
+      "exportedPath": "go-team-edge-lord/lore/factions/sizes/size.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Factions/States/Distrusted.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "go-team-edge-lord/lore/factions/states/distrusted.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Factions/States/Favoured.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "go-team-edge-lord/lore/factions/states/favoured.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Factions/States/Kill on site.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "go-team-edge-lord/lore/factions/states/kill-on-site.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Factions/States/Loved.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "go-team-edge-lord/lore/factions/states/loved.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Factions/States/Outsider.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "go-team-edge-lord/lore/factions/states/outsider.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Factions/States/Respected.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "go-team-edge-lord/lore/factions/states/respected.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Factions/States/States.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 155,
+      "exportedPath": "go-team-edge-lord/lore/factions/states/states.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Factions/States/trusted.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "go-team-edge-lord/lore/factions/states/trusted.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Factions/States/Unwelcome.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "go-team-edge-lord/lore/factions/states/unwelcome.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Factions/States/Vilified.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "go-team-edge-lord/lore/factions/states/vilified.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Factions/Ashvale Marches militia.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 177,
+      "exportedPath": "go-team-edge-lord/lore/factions/ashvale-marches-militia.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Factions/Council of nine.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 155,
+      "exportedPath": "go-team-edge-lord/lore/factions/council-of-nine.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Factions/Cult of the hanged man.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 238,
+      "exportedPath": "go-team-edge-lord/lore/factions/cult-of-the-hanged-man.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Factions/Factions.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 821,
+      "exportedPath": "go-team-edge-lord/lore/factions/factions.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Factions/Hunters Guild.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 1539,
+      "exportedPath": "go-team-edge-lord/lore/factions/hunters-guild.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Factions/Merchants Guild.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 161,
+      "exportedPath": "go-team-edge-lord/lore/factions/merchants-guild.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Factions/Raven group.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 280,
+      "exportedPath": "go-team-edge-lord/lore/factions/raven-group.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Factions/Slayer cults.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 153,
+      "exportedPath": "go-team-edge-lord/lore/factions/slayer-cults.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Factions/The burned Church.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 206,
+      "exportedPath": "go-team-edge-lord/lore/factions/the-burned-church.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Factions/The Crimson Court.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 425,
+      "exportedPath": "go-team-edge-lord/lore/factions/the-crimson-court.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Factions/The Cursed Guards.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 254,
+      "exportedPath": "go-team-edge-lord/lore/factions/the-cursed-guards.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Factions/wandering war host.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 173,
+      "exportedPath": "go-team-edge-lord/lore/factions/wandering-war-host.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Languages/Ancient.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 77,
+      "exportedPath": "go-team-edge-lord/lore/languages/ancient.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Languages/Cleric.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 48,
+      "exportedPath": "go-team-edge-lord/lore/languages/cleric.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Languages/Common.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 86,
+      "exportedPath": "go-team-edge-lord/lore/languages/common.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Languages/Draconic.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 68,
+      "exportedPath": "go-team-edge-lord/lore/languages/draconic.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Languages/Druidic.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 44,
+      "exportedPath": "go-team-edge-lord/lore/languages/druidic.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Languages/Dwarven Runes.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 110,
+      "exportedPath": "go-team-edge-lord/lore/languages/dwarven-runes.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Languages/Elvish.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 66,
+      "exportedPath": "go-team-edge-lord/lore/languages/elvish.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Languages/Fae.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 272,
+      "exportedPath": "go-team-edge-lord/lore/languages/fae.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Languages/High.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 99,
+      "exportedPath": "go-team-edge-lord/lore/languages/high.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Languages/Languages.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 144,
+      "exportedPath": "go-team-edge-lord/lore/languages/languages.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Languages/Orcish.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 34,
+      "exportedPath": "go-team-edge-lord/lore/languages/orcish.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Languages/Thieves Cant.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 46,
+      "exportedPath": "go-team-edge-lord/lore/languages/thieves-cant.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Locations/Regions/Ashvale marches.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 92,
+      "exportedPath": "go-team-edge-lord/lore/locations/regions/ashvale-marches.html",
+      "dependencies": [
+        "lib/media/ashvale-marches.png"
+      ]
+    },
+    "Go Team Edge Lord/Lore/Locations/Regions/List of regions.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 21,
+      "exportedPath": "go-team-edge-lord/lore/locations/regions/list-of-regions.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Locations/Ashbloom.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 164,
+      "exportedPath": "go-team-edge-lord/lore/locations/ashbloom.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Locations/Ashvale.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 1375,
+      "exportedPath": "go-team-edge-lord/lore/locations/ashvale.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Locations/Bitter Frost.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 155,
+      "exportedPath": "go-team-edge-lord/lore/locations/bitter-frost.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Locations/Crimson court armoured wagon train.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "go-team-edge-lord/lore/locations/crimson-court-armoured-wagon-train.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Locations/Great palisade.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 26,
+      "exportedPath": "go-team-edge-lord/lore/locations/great-palisade.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Locations/Guild armoured wagon train.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 153,
+      "exportedPath": "go-team-edge-lord/lore/locations/guild-armoured-wagon-train.html",
+      "dependencies": [
+        "lib/media/an-unexpected-addition-to-an-expected-journey.png"
+      ]
+    },
+    "Go Team Edge Lord/Lore/Locations/Kow-Loon.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 100,
+      "exportedPath": "go-team-edge-lord/lore/locations/kow-loon.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Locations/List of Locations.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 356,
+      "exportedPath": "go-team-edge-lord/lore/locations/list-of-locations.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Locations/Murk Wood.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 156,
+      "exportedPath": "go-team-edge-lord/lore/locations/murk-wood.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Locations/Raven point.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 51,
+      "exportedPath": "go-team-edge-lord/lore/locations/raven-point.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Locations/the cursed prison.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 231,
+      "exportedPath": "go-team-edge-lord/lore/locations/the-cursed-prison.html",
+      "dependencies": [
+        "lib/media/the-cursed-prision-3.png",
+        "lib/media/the-cursed-prision-1.png",
+        "lib/media/the-cursed-prision-2.png"
+      ]
+    },
+    "Go Team Edge Lord/Lore/Locations/The Vampiric mountain lions den.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 86,
+      "exportedPath": "go-team-edge-lord/lore/locations/the-vampiric-mountain-lions-den.html",
+      "dependencies": [
+        "lib/media/a-hunt-is-at-foot.png"
+      ]
+    },
+    "Go Team Edge Lord/Lore/Locations/Ventus Castellum.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 155,
+      "exportedPath": "go-team-edge-lord/lore/locations/ventus-castellum.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Locations/Willowmoor.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 162,
+      "exportedPath": "go-team-edge-lord/lore/locations/willowmoor.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/NPC's/Antagonists/The anti party/Arcane Archer the end.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "go-team-edge-lord/lore/npc's/antagonists/the-anti-party/arcane-archer-the-end.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/NPC's/Antagonists/The anti party/Circle of spores druid.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 608,
+      "exportedPath": "go-team-edge-lord/lore/npc's/antagonists/the-anti-party/circle-of-spores-druid.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/NPC's/Antagonists/The anti party/Gloom stalker ranger.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 598,
+      "exportedPath": "go-team-edge-lord/lore/npc's/antagonists/the-anti-party/gloom-stalker-ranger.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/NPC's/Antagonists/The anti party/Paladin (sundowner).md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 585,
+      "exportedPath": "go-team-edge-lord/lore/npc's/antagonists/the-anti-party/paladin-(sundowner).html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/NPC's/Antagonists/The anti party/The anti party.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 310,
+      "exportedPath": "go-team-edge-lord/lore/npc's/antagonists/the-anti-party/the-anti-party.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/NPC's/Antagonists/The anti party/Warlock.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 599,
+      "exportedPath": "go-team-edge-lord/lore/npc's/antagonists/the-anti-party/warlock.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/NPC's/Antagonists/Antagonists.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 89,
+      "exportedPath": "go-team-edge-lord/lore/npc's/antagonists/antagonists.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/NPC's/Antagonists/Queen of the crimson court.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 776,
+      "exportedPath": "go-team-edge-lord/lore/npc's/antagonists/queen-of-the-crimson-court.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/NPC's/Antagonists/The council of nine.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "go-team-edge-lord/lore/npc's/antagonists/the-council-of-nine.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/NPC's/Friendlies/Friendlies.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 35,
+      "exportedPath": "go-team-edge-lord/lore/npc's/friendlies/friendlies.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/NPC's/Friendlies/Urist 'Cragspliter' Datan-Adil.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 1763,
+      "exportedPath": "go-team-edge-lord/lore/npc's/friendlies/urist-'cragspliter'-datan-adil.html",
+      "dependencies": [
+        "lib/media/oig2-(1).jpg"
+      ]
+    },
+    "Go Team Edge Lord/Lore/NPC's/Neutral/Neutral.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 51,
+      "exportedPath": "go-team-edge-lord/lore/npc's/neutral/neutral.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/NPC's/Neutral/The Crow.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 849,
+      "exportedPath": "go-team-edge-lord/lore/npc's/neutral/the-crow.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/NPC's/Neutral/The Driver.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 981,
+      "exportedPath": "go-team-edge-lord/lore/npc's/neutral/the-driver.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/NPC's/Neutral/The engineer.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 1047,
+      "exportedPath": "go-team-edge-lord/lore/npc's/neutral/the-engineer.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/NPC's/NPC's.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 114,
+      "exportedPath": "go-team-edge-lord/lore/npc's/npc's.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Races/Damphir.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 134,
+      "exportedPath": "go-team-edge-lord/lore/races/damphir.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Races/Dragonborn.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 417,
+      "exportedPath": "go-team-edge-lord/lore/races/dragonborn.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Races/Dwarfs.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 592,
+      "exportedPath": "go-team-edge-lord/lore/races/dwarfs.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Races/Elves.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 379,
+      "exportedPath": "go-team-edge-lord/lore/races/elves.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Races/Goblins.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 298,
+      "exportedPath": "go-team-edge-lord/lore/races/goblins.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Races/Humans.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 445,
+      "exportedPath": "go-team-edge-lord/lore/races/humans.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Races/kobolds.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 325,
+      "exportedPath": "go-team-edge-lord/lore/races/kobolds.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Races/Orcs.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 466,
+      "exportedPath": "go-team-edge-lord/lore/races/orcs.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Races/Races.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 327,
+      "exportedPath": "go-team-edge-lord/lore/races/races.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Races/Small Folk.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 598,
+      "exportedPath": "go-team-edge-lord/lore/races/small-folk.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Races/Tieflings.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 537,
+      "exportedPath": "go-team-edge-lord/lore/races/tieflings.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Races/True Fae.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 273,
+      "exportedPath": "go-team-edge-lord/lore/races/true-fae.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Races/True vampires.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 110,
+      "exportedPath": "go-team-edge-lord/lore/races/true-vampires.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Religion/Gods/Ares.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 742,
+      "exportedPath": "go-team-edge-lord/lore/religion/gods/ares.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Religion/Gods/Ares Boons.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 425,
+      "exportedPath": "go-team-edge-lord/lore/religion/gods/ares-boons.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Religion/Gods/Ashen King.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 1458,
+      "exportedPath": "go-team-edge-lord/lore/religion/gods/ashen-king.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Religion/Gods/Ashen King Boons.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 465,
+      "exportedPath": "go-team-edge-lord/lore/religion/gods/ashen-king-boons.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Religion/Gods/Fenri.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 333,
+      "exportedPath": "go-team-edge-lord/lore/religion/gods/fenri.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Religion/Gods/Fenri Boons.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 355,
+      "exportedPath": "go-team-edge-lord/lore/religion/gods/fenri-boons.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Religion/Gods/Fulcrum.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 342,
+      "exportedPath": "go-team-edge-lord/lore/religion/gods/fulcrum.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Religion/Gods/Fulcrum Boons.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 442,
+      "exportedPath": "go-team-edge-lord/lore/religion/gods/fulcrum-boons.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Religion/Gods/Gaia Diony.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 461,
+      "exportedPath": "go-team-edge-lord/lore/religion/gods/gaia-diony.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Religion/Gods/Gaia Diony Boons.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 233,
+      "exportedPath": "go-team-edge-lord/lore/religion/gods/gaia-diony-boons.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Religion/Gods/Huginn and Muninn.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 309,
+      "exportedPath": "go-team-edge-lord/lore/religion/gods/huginn-and-muninn.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Religion/Gods/Huginn and Muninn Boons.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 377,
+      "exportedPath": "go-team-edge-lord/lore/religion/gods/huginn-and-muninn-boons.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Religion/Gods/Ordo.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 367,
+      "exportedPath": "go-team-edge-lord/lore/religion/gods/ordo.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Religion/Gods/Ordo Boons.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 233,
+      "exportedPath": "go-team-edge-lord/lore/religion/gods/ordo-boons.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Religion/Gods/Proteus.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 346,
+      "exportedPath": "go-team-edge-lord/lore/religion/gods/proteus.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Religion/Gods/Proteus Boons.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 233,
+      "exportedPath": "go-team-edge-lord/lore/religion/gods/proteus-boons.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Religion/Gods/Vigo.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 349,
+      "exportedPath": "go-team-edge-lord/lore/religion/gods/vigo.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Religion/Gods/Vigo Boons.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 233,
+      "exportedPath": "go-team-edge-lord/lore/religion/gods/vigo-boons.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Religion/Religious sites/Ares Proving ground.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "go-team-edge-lord/lore/religion/religious-sites/ares-proving-ground.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Religion/Religious sites/Funeral parlour.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "go-team-edge-lord/lore/religion/religious-sites/funeral-parlour.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Religion/Religious sites/Shrine of Vigo.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "go-team-edge-lord/lore/religion/religious-sites/shrine-of-vigo.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Religion/Religious sites/The church of Ordo.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "go-team-edge-lord/lore/religion/religious-sites/the-church-of-ordo.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Religion/Boons.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 311,
+      "exportedPath": "go-team-edge-lord/lore/religion/boons.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Religion/Religion.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 253,
+      "exportedPath": "go-team-edge-lord/lore/religion/religion.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Timeline/Timeline.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "go-team-edge-lord/lore/timeline/timeline.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Curses.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 1187,
+      "exportedPath": "go-team-edge-lord/lore/curses.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Economics.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 534,
+      "exportedPath": "go-team-edge-lord/lore/economics.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/Lore.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 150,
+      "exportedPath": "go-team-edge-lord/lore/lore.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Lore/The Cursed.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 937,
+      "exportedPath": "go-team-edge-lord/lore/the-cursed.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Magical items/Player items/Advance harpoonery.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 1841,
+      "exportedPath": "go-team-edge-lord/magical-items/player-items/advance-harpoonery.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Magical items/Player items/Amulet of finesse.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "go-team-edge-lord/magical-items/player-items/amulet-of-finesse.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Magical items/Player items/Belt of metabolism.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 169,
+      "exportedPath": "go-team-edge-lord/magical-items/player-items/belt-of-metabolism.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Magical items/Player items/Gauntlets of hill giants might.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 265,
+      "exportedPath": "go-team-edge-lord/magical-items/player-items/gauntlets-of-hill-giants-might.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Magical items/Player items/Hilt of Victory.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 160,
+      "exportedPath": "go-team-edge-lord/magical-items/player-items/hilt-of-victory.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Magical items/Player items/Kawflev’s Vessel.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 2432,
+      "exportedPath": "go-team-edge-lord/magical-items/player-items/kawflev’s-vessel.html",
+      "dependencies": [
+        "lib/media/attic-whisper.jpg"
+      ]
+    },
+    "Go Team Edge Lord/Magical items/Player items/Ring of remote viewing.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "go-team-edge-lord/magical-items/player-items/ring-of-remote-viewing.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Magical items/Player items/Scrying orb of the past.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "go-team-edge-lord/magical-items/player-items/scrying-orb-of-the-past.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Magical items/Player items/The Bat blessed cloak.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 175,
+      "exportedPath": "go-team-edge-lord/magical-items/player-items/the-bat-blessed-cloak.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Magical items/Magical Items.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 287,
+      "exportedPath": "go-team-edge-lord/magical-items/magical-items.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Maps/Dungeon maps/A hunt is at foot.png": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 4276781,
+      "exportedPath": "go-team-edge-lord/maps/dungeon-maps/a-hunt-is-at-foot.png",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Maps/Dungeon maps/An unexpected addition to an expected journey.png": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 2217170,
+      "exportedPath": "go-team-edge-lord/maps/dungeon-maps/an-unexpected-addition-to-an-expected-journey.png",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Maps/Dungeon maps/the Cursed prision 1.png": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 631541,
+      "exportedPath": "go-team-edge-lord/maps/dungeon-maps/the-cursed-prision-1.png",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Maps/Dungeon maps/the Cursed prision 2.png": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 1161210,
+      "exportedPath": "go-team-edge-lord/maps/dungeon-maps/the-cursed-prision-2.png",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Maps/Dungeon maps/the Cursed prision 3.png": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 460408,
+      "exportedPath": "go-team-edge-lord/maps/dungeon-maps/the-cursed-prision-3.png",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Maps/Ashvale Marches.png": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 3790004,
+      "exportedPath": "go-team-edge-lord/maps/ashvale-marches.png",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Missions/A flock without a shepard/A flock without a shepard.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 506,
+      "exportedPath": "go-team-edge-lord/missions/a-flock-without-a-shepard/a-flock-without-a-shepard.html",
+      "dependencies": [
+        "lib/media/oig.asnzt26vsuvntrr.jpg",
+        "lib/media/the-scout.jpg",
+        "lib/media/oig.ewpjtz9u.jpg"
+      ]
+    },
+    "Go Team Edge Lord/Missions/A flock without a shepard/A hunt is at foot.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "go-team-edge-lord/missions/a-flock-without-a-shepard/a-hunt-is-at-foot.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Missions/A flock without a shepard/Clearing the grave yard.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "go-team-edge-lord/missions/a-flock-without-a-shepard/clearing-the-grave-yard.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Missions/A flock without a shepard/Defence of willowmoor.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "go-team-edge-lord/missions/a-flock-without-a-shepard/defence-of-willowmoor.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Missions/A flock without a shepard/Investigating the church.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "go-team-edge-lord/missions/a-flock-without-a-shepard/investigating-the-church.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Missions/An unexpected addition to an expected journey/A warning from the king.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "go-team-edge-lord/missions/an-unexpected-addition-to-an-expected-journey/a-warning-from-the-king.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Missions/An unexpected addition to an expected journey/An unexpected addition to an expected journey.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 737,
+      "exportedPath": "go-team-edge-lord/missions/an-unexpected-addition-to-an-expected-journey/an-unexpected-addition-to-an-expected-journey.html",
+      "dependencies": [
+        "lib/media/an-unexpected-addition-to-an-expected-journey.png",
+        "lib/media/oig2.jpg",
+        "lib/media/oig2.qxfur84zmp6jbt.jpg",
+        "lib/media/oig4.gqizytvyxqbzmmq0t.jpg"
+      ]
+    },
+    "Go Team Edge Lord/Missions/An unexpected addition to an expected journey/Bandit ambush.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "go-team-edge-lord/missions/an-unexpected-addition-to-an-expected-journey/bandit-ambush.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Missions/An unexpected addition to an expected journey/bandit blockade.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "go-team-edge-lord/missions/an-unexpected-addition-to-an-expected-journey/bandit-blockade.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Missions/An unexpected addition to an expected journey/Draugr ambush.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 123,
+      "exportedPath": "go-team-edge-lord/missions/an-unexpected-addition-to-an-expected-journey/draugr-ambush.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Missions/An unexpected addition to an expected journey/Leaving the bandit kings realm.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "go-team-edge-lord/missions/an-unexpected-addition-to-an-expected-journey/leaving-the-bandit-kings-realm.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Missions/An unexpected addition to an expected journey/Rider Raid.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 297,
+      "exportedPath": "go-team-edge-lord/missions/an-unexpected-addition-to-an-expected-journey/rider-raid.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Missions/The Cursed prison/the Cursed prison.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 436,
+      "exportedPath": "go-team-edge-lord/missions/the-cursed-prison/the-cursed-prison.html",
+      "dependencies": [
+        "lib/media/the-cursed-prision-3.png",
+        "lib/media/the-cursed-prision-1.png",
+        "lib/media/the-cursed-prision-2.png",
+        "lib/media/the-guards.jpg",
+        "lib/media/the-hounds.jpg",
+        "lib/media/the-guard-leader.jpg",
+        "lib/media/the-giant.jpg",
+        "lib/media/the-captain.jpg"
+      ]
+    },
+    "Go Team Edge Lord/Missions/Missions.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 198,
+      "exportedPath": "go-team-edge-lord/missions/missions.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Party members/The bard.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 649,
+      "exportedPath": "go-team-edge-lord/party-members/the-bard.html",
+      "dependencies": [
+        "lib/media/the-prisioner.jpg"
+      ]
+    },
+    "Go Team Edge Lord/Party members/the cat girl cleric.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 659,
+      "exportedPath": "go-team-edge-lord/party-members/the-cat-girl-cleric.html",
+      "dependencies": [
+        "lib/media/cat-girl-cleric.jpg"
+      ]
+    },
+    "Go Team Edge Lord/Party members/The clobberer.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 628,
+      "exportedPath": "go-team-edge-lord/party-members/the-clobberer.html",
+      "dependencies": [
+        "lib/media/orc_barbarian.jpg"
+      ]
+    },
+    "Go Team Edge Lord/Party members/The fairy.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 651,
+      "exportedPath": "go-team-edge-lord/party-members/the-fairy.html",
+      "dependencies": [
+        "lib/media/e8608c9c-7401-454a-be55-d1475f4a7c3d.jpg"
+      ]
+    },
+    "Go Team Edge Lord/Party members/The fighter Lizard.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 606,
+      "exportedPath": "go-team-edge-lord/party-members/the-fighter-lizard.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Party members/The Monk.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 623,
+      "exportedPath": "go-team-edge-lord/party-members/the-monk.html",
+      "dependencies": [
+        "lib/media/tiefling.jpg"
+      ]
+    },
+    "Go Team Edge Lord/Party members/The party.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 165,
+      "exportedPath": "go-team-edge-lord/party-members/the-party.html",
+      "dependencies": []
+    },
+    "Go Team Edge Lord/Party members/The Rogue.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 618,
+      "exportedPath": "go-team-edge-lord/party-members/the-rogue.html",
+      "dependencies": [
+        "lib/media/elf.png"
+      ]
+    },
+    "Go Team Edge Lord/Party members/The Samurai.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 632,
+      "exportedPath": "go-team-edge-lord/party-members/the-samurai.html",
+      "dependencies": [
+        "lib/media/arata_the_patient.jpg"
+      ]
+    },
+    "Go Team Edge Lord/Party members/The Wizard.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 620,
+      "exportedPath": "go-team-edge-lord/party-members/the-wizard.html",
+      "dependencies": [
+        "lib/media/rygat.png"
+      ]
+    },
+    "Go Team Edge Lord/Dm Screen GTEL.canvas": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 293,
+      "exportedPath": "go-team-edge-lord/dm-screen-gtel.html",
+      "dependencies": [
+        "go-team-edge-lord/maps/ashvale-marches.png"
+      ]
+    },
+    "Go Team Edge Lord/Go Team Edge Lord.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 219,
+      "exportedPath": "go-team-edge-lord/go-team-edge-lord.html",
+      "dependencies": []
+    },
+    "Rules/Biome data/Ash marsh.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 1474,
+      "exportedPath": "rules/biome-data/ash-marsh.html",
+      "dependencies": []
+    },
+    "Rules/Biome data/Ash wastes.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 1077,
+      "exportedPath": "rules/biome-data/ash-wastes.html",
+      "dependencies": []
+    },
+    "Rules/Biome data/Biome data.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 125,
+      "exportedPath": "rules/biome-data/biome-data.html",
+      "dependencies": []
+    },
+    "Rules/Biome data/Forest.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 1812,
+      "exportedPath": "rules/biome-data/forest.html",
+      "dependencies": []
+    },
+    "Rules/Biome data/Tundra.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "rules/biome-data/tundra.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Buildings/Armoury.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 253,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/buildings/armoury.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Buildings/Buildings.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 151,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/buildings/buildings.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Buildings/Keep.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 309,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/buildings/keep.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Buildings/Slots.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 180,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/buildings/slots.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Defences/Defences.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/defences/defences.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Facilities/Animal pen.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 280,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/facilities/animal-pen.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Facilities/Armoury (facility).md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 214,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/facilities/armoury-(facility).html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Facilities/Brewery.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 403,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/facilities/brewery.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Facilities/Facilities.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 119,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/facilities/facilities.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Facilities/Hall.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 976,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/facilities/hall.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Facilities/Kitchen.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 231,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/facilities/kitchen.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Facilities/Well.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 346,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/facilities/well.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Hirelings/Hirelings.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 97,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/hirelings/hirelings.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Rooms sizes/Enormous room.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/rooms-sizes/enormous-room.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Rooms sizes/Huge Room.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/rooms-sizes/huge-room.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Rooms sizes/Large room.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/rooms-sizes/large-room.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Rooms sizes/Medium room.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 266,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/rooms-sizes/medium-room.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Rooms sizes/Room sizes.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 139,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/rooms-sizes/room-sizes.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Rooms sizes/Small Room.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 285,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/rooms-sizes/small-room.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Rooms sizes/Tiny Room.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 73,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/rooms-sizes/tiny-room.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Sites/Site Features/Site features.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 289,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/sites/site-features/site-features.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Sites/Castle.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 124,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/sites/castle.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Sites/Fort.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 104,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/sites/fort.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Sites/Fortress.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 90,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/sites/fortress.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Sites/Sites.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 52,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/sites/sites.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Buildings and player owned settlements.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 393,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/buildings-and-player-owned-settlements.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Taxes.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/taxes.html",
+      "dependencies": []
+    },
+    "Rules/Crafting/Artisan tools/Brewing.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 1025,
+      "exportedPath": "rules/crafting/artisan-tools/brewing.html",
+      "dependencies": []
+    },
+    "Rules/Crafting/Artisan tools/Cooking.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 505,
+      "exportedPath": "rules/crafting/artisan-tools/cooking.html",
+      "dependencies": []
+    },
+    "Rules/Crafting/Artisan tools/Masonry.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "rules/crafting/artisan-tools/masonry.html",
+      "dependencies": []
+    },
+    "Rules/Crafting/Artisan tools/Smithing.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "rules/crafting/artisan-tools/smithing.html",
+      "dependencies": []
+    },
+    "Rules/Crafting/Gathering/Digging.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 11,
+      "exportedPath": "rules/crafting/gathering/digging.html",
+      "dependencies": []
+    },
+    "Rules/Crafting/Gathering/Foraging.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 1528,
+      "exportedPath": "rules/crafting/gathering/foraging.html",
+      "dependencies": []
+    },
+    "Rules/Crafting/Gathering/Mining.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 11,
+      "exportedPath": "rules/crafting/gathering/mining.html",
+      "dependencies": []
+    },
+    "Rules/Crafting/Gathering/Wood cutting.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 12,
+      "exportedPath": "rules/crafting/gathering/wood-cutting.html",
+      "dependencies": []
+    },
+    "Rules/Crafting/Crafting.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 192,
+      "exportedPath": "rules/crafting/crafting.html",
+      "dependencies": []
+    },
+    "Rules/POI's/Cairn.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 127,
+      "exportedPath": "rules/poi's/cairn.html",
+      "dependencies": []
+    },
+    "Rules/POI's/POI's.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 118,
+      "exportedPath": "rules/poi's/poi's.html",
+      "dependencies": []
+    },
+    "Rules/Camping.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 142,
+      "exportedPath": "rules/camping.html",
+      "dependencies": []
+    },
+    "Rules/Combat.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 438,
+      "exportedPath": "rules/combat.html",
+      "dependencies": []
+    },
+    "Rules/Degrees of success.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 53,
+      "exportedPath": "rules/degrees-of-success.html",
+      "dependencies": []
+    },
+    "Rules/Dissociate skills.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 860,
+      "exportedPath": "rules/dissociate-skills.html",
+      "dependencies": []
+    },
+    "Rules/Exhaustion.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "rules/exhaustion.html",
+      "dependencies": []
+    },
+    "Rules/Generic money.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 208,
+      "exportedPath": "rules/generic-money.html",
+      "dependencies": []
+    },
+    "Rules/Insomnia.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 200,
+      "exportedPath": "rules/insomnia.html",
+      "dependencies": []
+    },
+    "Rules/Rolling for magic and magic perils.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 289,
+      "exportedPath": "rules/rolling-for-magic-and-magic-perils.html",
+      "dependencies": []
+    },
+    "Rules/Rules.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 236,
+      "exportedPath": "rules/rules.html",
+      "dependencies": []
+    },
+    "Sibling campaign/Lore/Factions/Factions.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 79,
+      "exportedPath": "sibling-campaign/lore/factions/factions.html",
+      "dependencies": []
+    },
+    "Sibling campaign/Lore/Factions/Forsworn.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 192,
+      "exportedPath": "sibling-campaign/lore/factions/forsworn.html",
+      "dependencies": []
+    },
+    "Sibling campaign/Lore/Factions/Hags of witch muck.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 218,
+      "exportedPath": "sibling-campaign/lore/factions/hags-of-witch-muck.html",
+      "dependencies": []
+    },
+    "Sibling campaign/Lore/Factions/The kingdom of Ashvale.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 202,
+      "exportedPath": "sibling-campaign/lore/factions/the-kingdom-of-ashvale.html",
+      "dependencies": []
+    },
+    "Sibling campaign/Lore/Locations/Regions/Ashvale reaches.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 26,
+      "exportedPath": "sibling-campaign/lore/locations/regions/ashvale-reaches.html",
+      "dependencies": []
+    },
+    "Sibling campaign/Lore/Locations/Regions/Regions.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 20,
+      "exportedPath": "sibling-campaign/lore/locations/regions/regions.html",
+      "dependencies": []
+    },
+    "Sibling campaign/Lore/Locations/Ashvale (Sibling).md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 165,
+      "exportedPath": "sibling-campaign/lore/locations/ashvale-(sibling).html",
+      "dependencies": []
+    },
+    "Sibling campaign/Lore/Locations/Castle witch muck.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 103,
+      "exportedPath": "sibling-campaign/lore/locations/castle-witch-muck.html",
+      "dependencies": []
+    },
+    "Sibling campaign/Lore/Locations/Locations.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 156,
+      "exportedPath": "sibling-campaign/lore/locations/locations.html",
+      "dependencies": []
+    },
+    "Sibling campaign/Lore/Locations/Monk barrow.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 35,
+      "exportedPath": "sibling-campaign/lore/locations/monk-barrow.html",
+      "dependencies": []
+    },
+    "Sibling campaign/Lore/Locations/old hunters cabin.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 41,
+      "exportedPath": "sibling-campaign/lore/locations/old-hunters-cabin.html",
+      "dependencies": []
+    },
+    "Sibling campaign/Lore/Locations/Sunken city.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 152,
+      "exportedPath": "sibling-campaign/lore/locations/sunken-city.html",
+      "dependencies": []
+    },
+    "Sibling campaign/Lore/Locations/The Fort.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 179,
+      "exportedPath": "sibling-campaign/lore/locations/the-fort.html",
+      "dependencies": []
+    },
+    "Sibling campaign/Lore/Lore.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "sibling-campaign/lore/lore.html",
+      "dependencies": []
+    },
+    "Sibling campaign/Sibling campaign.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 115,
+      "exportedPath": "sibling-campaign/sibling-campaign.html",
+      "dependencies": []
+    },
+    "Templates/Ability.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 22,
+      "exportedPath": "templates/ability.html",
+      "dependencies": []
+    },
+    "Templates/Biome.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 1077,
+      "exportedPath": "templates/biome.html",
+      "dependencies": []
+    },
+    "Templates/Building.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 52,
+      "exportedPath": "templates/building.html",
+      "dependencies": []
+    },
+    "Templates/Dungeon.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 35,
+      "exportedPath": "templates/dungeon.html",
+      "dependencies": []
+    },
+    "Templates/Encounter.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 61,
+      "exportedPath": "templates/encounter.html",
+      "dependencies": []
+    },
+    "Templates/Enemy.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 604,
+      "exportedPath": "templates/enemy.html",
+      "dependencies": []
+    },
+    "Templates/Facility.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 122,
+      "exportedPath": "templates/facility.html",
+      "dependencies": []
+    },
+    "Templates/Faction.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 113,
+      "exportedPath": "templates/faction.html",
+      "dependencies": []
+    },
+    "Templates/Generic templates.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 246,
+      "exportedPath": "templates/generic-templates.html",
+      "dependencies": []
+    },
+    "Templates/God.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 94,
+      "exportedPath": "templates/god.html",
+      "dependencies": []
+    },
+    "Templates/Historical Event.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "templates/historical-event.html",
+      "dependencies": []
+    },
+    "Templates/Keyword.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 0,
+      "exportedPath": "templates/keyword.html",
+      "dependencies": []
+    },
+    "Templates/Mission.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 266,
+      "exportedPath": "templates/mission.html",
+      "dependencies": []
+    },
+    "Templates/NPC.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 748,
+      "exportedPath": "templates/npc.html",
+      "dependencies": []
+    },
+    "Templates/Player.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 615,
+      "exportedPath": "templates/player.html",
+      "dependencies": []
+    },
+    "Templates/Race.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 80,
+      "exportedPath": "templates/race.html",
+      "dependencies": []
+    },
+    "Templates/Site.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 83,
+      "exportedPath": "templates/site.html",
+      "dependencies": []
+    },
+    "Templates/Town.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 100,
+      "exportedPath": "templates/town.html",
+      "dependencies": []
+    },
+    "Templates/Weapon.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 142,
+      "exportedPath": "templates/weapon.html",
+      "dependencies": []
+    },
+    "Index.md": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 123,
+      "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "lib/media/oig2.jpg": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 146935,
+      "exportedPath": "lib/media/oig2.jpg",
+      "dependencies": []
+    },
+    "lib/media/oig2.qxfur84zmp6jbt.jpg": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 140083,
+      "exportedPath": "lib/media/oig2.qxfur84zmp6jbt.jpg",
+      "dependencies": []
+    },
+    "lib/media/oig4.gqizytvyxqbzmmq0t.jpg": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 153761,
+      "exportedPath": "lib/media/oig4.gqizytvyxqbzmmq0t.jpg",
+      "dependencies": []
+    },
+    "lib/media/the-guards.jpg": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 175691,
+      "exportedPath": "lib/media/the-guards.jpg",
+      "dependencies": []
+    },
+    "lib/media/the-captain.jpg": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 180870,
+      "exportedPath": "lib/media/the-captain.jpg",
+      "dependencies": []
+    },
+    "lib/media/the-hounds.jpg": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 208994,
+      "exportedPath": "lib/media/the-hounds.jpg",
+      "dependencies": []
+    },
+    "lib/media/the-guard-leader.jpg": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 147726,
+      "exportedPath": "lib/media/the-guard-leader.jpg",
+      "dependencies": []
+    },
+    "lib/media/the-giant.jpg": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 191944,
+      "exportedPath": "lib/media/the-giant.jpg",
+      "dependencies": []
+    },
+    "lib/media/oig.jpg": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 196570,
+      "exportedPath": "lib/media/oig.jpg",
+      "dependencies": []
+    },
+    "lib/media/oig.asnzt26vsuvntrr.jpg": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 166805,
+      "exportedPath": "lib/media/oig.asnzt26vsuvntrr.jpg",
+      "dependencies": []
+    },
+    "lib/media/the-scout.jpg": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 197599,
+      "exportedPath": "lib/media/the-scout.jpg",
+      "dependencies": []
+    },
+    "lib/media/oig.ewpjtz9u.jpg": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 166643,
+      "exportedPath": "lib/media/oig.ewpjtz9u.jpg",
+      "dependencies": []
+    },
+    "lib/media/ashvale-marches.png": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 3790004,
+      "exportedPath": "lib/media/ashvale-marches.png",
+      "dependencies": []
+    },
+    "lib/media/an-unexpected-addition-to-an-expected-journey.png": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 2217170,
+      "exportedPath": "lib/media/an-unexpected-addition-to-an-expected-journey.png",
+      "dependencies": []
+    },
+    "lib/media/the-cursed-prision-3.png": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 460408,
+      "exportedPath": "lib/media/the-cursed-prision-3.png",
+      "dependencies": []
+    },
+    "lib/media/the-cursed-prision-1.png": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 631541,
+      "exportedPath": "lib/media/the-cursed-prision-1.png",
+      "dependencies": []
+    },
+    "lib/media/the-cursed-prision-2.png": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 1161210,
+      "exportedPath": "lib/media/the-cursed-prision-2.png",
+      "dependencies": []
+    },
+    "lib/media/a-hunt-is-at-foot.png": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 4276781,
+      "exportedPath": "lib/media/a-hunt-is-at-foot.png",
+      "dependencies": []
+    },
+    "lib/media/oig2-(1).jpg": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 169532,
+      "exportedPath": "lib/media/oig2-(1).jpg",
+      "dependencies": []
+    },
+    "lib/media/attic-whisper.jpg": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 13992,
+      "exportedPath": "lib/media/attic-whisper.jpg",
+      "dependencies": []
+    },
+    "lib/media/the-prisioner.jpg": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 157236,
+      "exportedPath": "lib/media/the-prisioner.jpg",
+      "dependencies": []
+    },
+    "lib/media/cat-girl-cleric.jpg": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 252401,
+      "exportedPath": "lib/media/cat-girl-cleric.jpg",
+      "dependencies": []
+    },
+    "lib/media/orc_barbarian.jpg": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 220197,
+      "exportedPath": "lib/media/orc_barbarian.jpg",
+      "dependencies": []
+    },
+    "lib/media/e8608c9c-7401-454a-be55-d1475f4a7c3d.jpg": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 148736,
+      "exportedPath": "lib/media/e8608c9c-7401-454a-be55-d1475f4a7c3d.jpg",
+      "dependencies": []
+    },
+    "lib/media/tiefling.jpg": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 5544,
+      "exportedPath": "lib/media/tiefling.jpg",
+      "dependencies": []
+    },
+    "lib/media/elf.png": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 1933942,
+      "exportedPath": "lib/media/elf.png",
+      "dependencies": []
+    },
+    "lib/media/arata_the_patient.jpg": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 9771,
+      "exportedPath": "lib/media/arata_the_patient.jpg",
+      "dependencies": []
+    },
+    "lib/media/rygat.png": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 321290,
+      "exportedPath": "lib/media/rygat.png",
+      "dependencies": []
+    },
+    "go-team-edge-lord/maps/ashvale-marches.png": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 3790004,
+      "exportedPath": "go-team-edge-lord/maps/ashvale-marches.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/media/3d6c1bdc4d87cde4de67.svg": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 279,
+      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 382488,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 37327,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 130471,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/other-plugins.css": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 25819,
+      "exportedPath": "lib/styles/other-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 236,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1727219574572,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
