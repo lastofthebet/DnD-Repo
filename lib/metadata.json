@@ -1,6 +1,6 @@
 {
-  "vaultName": "DnD",
-  "lastExport": 1729635354893,
+  "vaultName": "DnD-Repo",
+  "lastExport": 1734477953802,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -27,6 +27,7 @@
     "Beastiary/Abilities/Dwarven Armor Training.md",
     "Beastiary/Abilities/Dwarven Combat training.md",
     "Beastiary/Abilities/Dwarven resistance.md",
+    "Beastiary/Abilities/Effect.md",
     "Beastiary/Abilities/Endurance.md",
     "Beastiary/Abilities/Every lie is a truth.md",
     "Beastiary/Abilities/Every truth is a lie.md",
@@ -51,7 +52,10 @@
     "Beastiary/Abilities/Pounce.md",
     "Beastiary/Abilities/Rage.md",
     "Beastiary/Abilities/Rally.md",
+    "Beastiary/Abilities/Resist Vampire.md",
     "Beastiary/Abilities/Resolute.md",
+    "Beastiary/Abilities/Shimmer Stims.md",
+    "Beastiary/Abilities/Slam.md",
     "Beastiary/Abilities/Spell Turning.md",
     "Beastiary/Abilities/Sunlight Sensitivity.md",
     "Beastiary/Abilities/The art of the siege breaker.md",
@@ -113,10 +117,22 @@
     "Beastiary/CR/CR 2.md",
     "Beastiary/CR/CR 3.md",
     "Beastiary/CR/CR 30.md",
+    "Beastiary/Fey touched/Fey touched.md",
     "Beastiary/Ganger/Salvage union/Salvage union.md",
+    "Beastiary/Ganger/Salvage union/Salvage union boss.md",
+    "Beastiary/Ganger/Salvage union/Salvage union Fodder.md",
+    "Beastiary/Ganger/Salvage union/Salvage union Specialist.md",
+    "Beastiary/Ganger/Salvage union/Salvage union Squad leader.md",
+    "Beastiary/Ganger/Salvage union/Salvage union unique.md",
     "Beastiary/Ganger/Salvage union/Scab.md",
     "Beastiary/Ganger/Salvage union/Team leader.md",
     "Beastiary/Ganger/Salvage union/Work Boss.md",
+    "Beastiary/Ganger/Shimmered/Addict.md",
+    "Beastiary/Ganger/Shimmered/Dealer.md",
+    "Beastiary/Ganger/Shimmered/Dependant.md",
+    "Beastiary/Ganger/Shimmered/Fiend.md",
+    "Beastiary/Ganger/Shimmered/Junkie.md",
+    "Beastiary/Ganger/Shimmered/Shimmered.md",
     "Beastiary/Ganger/Ganger.md",
     "Beastiary/Ganger/Ganger Fodder.md",
     "Beastiary/Ganger/Ganger Squad leader.md",
@@ -157,10 +173,12 @@
     "Beastiary/Weapons/Claw.md",
     "Beastiary/Weapons/Combat Wrench.md",
     "Beastiary/Weapons/Crude Tools.md",
+    "Beastiary/Weapons/Fists.md",
     "Beastiary/Weapons/Light Crossbow.md",
     "Beastiary/Weapons/Marker Flare gun.md",
     "Beastiary/Weapons/Scimitar.md",
     "Beastiary/Weapons/Spear.md",
+    "Beastiary/Weapons/Sword of Strange Voices.md",
     "Beastiary/Weapons/Sword of Sword burst.md",
     "Beastiary/Weapons/Weapons.md",
     "Beastiary/Bestiary.md",
@@ -178,19 +196,28 @@
     "Bmet/Lore/Factions/Hunters Guild.md",
     "Bmet/Lore/Factions/Hunters Guild members.md",
     "Bmet/Lore/Factions/Salvage union.md",
+    "Bmet/Lore/Factions/The council.md",
+    "Bmet/Lore/Factions/Tyrell family.md",
     "Bmet/Lore/Factions/Union Scavs.md",
     "Bmet/Lore/History/Orcish front.md",
     "Bmet/Lore/History/Time line.md",
     "Bmet/Lore/Locations/Augustine.md",
+    "Bmet/Lore/Locations/Dwarven salvage yard.md",
     "Bmet/Lore/Locations/Hanged King.md",
     "Bmet/Lore/Locations/Locations.md",
+    "Bmet/Lore/Locations/Shimmer Den.md",
     "Bmet/Lore/Locations/The Drowned man.md",
+    "Bmet/Lore/Locations/The Under city.md",
     "Bmet/Lore/NPC's/Arbalest.md",
+    "Bmet/Lore/NPC's/Don Tyrell.md",
     "Bmet/Lore/NPC's/NPC's.md",
     "Bmet/Lore/NPC's/Walter.md",
+    "Bmet/Lore/Technologies and concepts/Shimmer.md",
     "Bmet/Lore/Lore.md",
-    "Bmet/Missions/To teach a lesson/To teach a lesson.md",
     "Bmet/Missions/Missions.md",
+    "Bmet/Missions/Rat hunting.md",
+    "Bmet/Missions/To teach a lesson.md",
+    "Bmet/Status effects/Shimmer sickness.md",
     "Bmet/Bmet.md",
     "Bmet/DM screen.canvas",
     "Go Team Edge Lord/Artwork/Arata_the_Patient.jpg",
@@ -218,13 +245,6 @@
     "Go Team Edge Lord/Lore/Factions/Ash vale marches Halfling Mafia/Ash vale marches Halfling Mafia.md",
     "Go Team Edge Lord/Lore/Factions/Ash vale marches Halfling Mafia/Associate.md",
     "Go Team Edge Lord/Lore/Factions/Ash vale marches Halfling Mafia/Made.md",
-    "Go Team Edge Lord/Lore/Factions/Sizes/International.md",
-    "Go Team Edge Lord/Lore/Factions/Sizes/Local.md",
-    "Go Team Edge Lord/Lore/Factions/Sizes/Major.md",
-    "Go Team Edge Lord/Lore/Factions/Sizes/Minor.md",
-    "Go Team Edge Lord/Lore/Factions/Sizes/National.md",
-    "Go Team Edge Lord/Lore/Factions/Sizes/Regional.md",
-    "Go Team Edge Lord/Lore/Factions/Sizes/Size.md",
     "Go Team Edge Lord/Lore/Factions/Ashvale Marches militia.md",
     "Go Team Edge Lord/Lore/Factions/Council of nine.md",
     "Go Team Edge Lord/Lore/Factions/Cult of the hanged man.md",
@@ -364,6 +384,16 @@
     "Go Team Edge Lord/Party members/The Wizard.md",
     "Go Team Edge Lord/Dm Screen GTEL.canvas",
     "Go Team Edge Lord/Go Team Edge Lord.md",
+    "Items/Meals/Meals.md",
+    "Items/Recipes/Craft Hand tool.md",
+    "Items/Recipes/Dry herb by the fire.md",
+    "Items/Recipes/Dry herb in air.md",
+    "Items/Recipes/Recipes.md",
+    "Items/Bear hide.md",
+    "Items/Carpenter's tools.md",
+    "Items/Chisel.md",
+    "Items/Herb.md",
+    "Items/Items.md",
     "Rules/Biome data/Forgeable/Forgeable.md",
     "Rules/Biome data/Forgeable/Wild Garlic.md",
     "Rules/Biome data/Ash marsh.md",
@@ -380,6 +410,7 @@
     "Rules/Buildings, rooms and hirelings/Facilities/Animal pen.md",
     "Rules/Buildings, rooms and hirelings/Facilities/Armoury (facility).md",
     "Rules/Buildings, rooms and hirelings/Facilities/Brewery.md",
+    "Rules/Buildings, rooms and hirelings/Facilities/Chemists study.md",
     "Rules/Buildings, rooms and hirelings/Facilities/Facilities.md",
     "Rules/Buildings, rooms and hirelings/Facilities/Hall.md",
     "Rules/Buildings, rooms and hirelings/Facilities/Kitchen.md",
@@ -400,7 +431,9 @@
     "Rules/Buildings, rooms and hirelings/Buildings and player owned settlements.md",
     "Rules/Buildings, rooms and hirelings/Taxes.md",
     "Rules/Crafting/Artisan tools/Brewing.md",
+    "Rules/Crafting/Artisan tools/Chemist's tools.md",
     "Rules/Crafting/Artisan tools/Cooking.md",
+    "Rules/Crafting/Artisan tools/Drying.md",
     "Rules/Crafting/Artisan tools/Masonry.md",
     "Rules/Crafting/Artisan tools/Smithing.md",
     "Rules/Crafting/Gathering/Digging.md",
@@ -408,9 +441,17 @@
     "Rules/Crafting/Gathering/Mining.md",
     "Rules/Crafting/Gathering/Wood cutting.md",
     "Rules/Crafting/Crafting.md",
+    "Rules/Factions/Sizes/International.md",
+    "Rules/Factions/Sizes/Local.md",
+    "Rules/Factions/Sizes/Major.md",
+    "Rules/Factions/Sizes/Minor.md",
+    "Rules/Factions/Sizes/National.md",
+    "Rules/Factions/Sizes/Regional.md",
+    "Rules/Factions/Sizes/Size.md",
     "Rules/Factions/States/Distrusted.md",
     "Rules/Factions/States/Favoured.md",
     "Rules/Factions/States/Kill on site.md",
+    "Rules/Factions/States/known.md",
     "Rules/Factions/States/Loved.md",
     "Rules/Factions/States/Outsider.md",
     "Rules/Factions/States/Respected.md",
@@ -419,9 +460,11 @@
     "Rules/Factions/States/Unwelcome.md",
     "Rules/Factions/States/Vilified.md",
     "Rules/Factions/Factions.md",
+    "Rules/Factions/Trade culture.md",
     "Rules/Loot and trading/Looting.md",
     "Rules/Loot and trading/Trading.md",
     "Rules/POI's/Cairn.md",
+    "Rules/POI's/Drug Lab.md",
     "Rules/POI's/POI's.md",
     "Rules/Camping.md",
     "Rules/Combat.md",
@@ -432,26 +475,36 @@
     "Rules/Insomnia.md",
     "Rules/Rolling for magic and magic perils.md",
     "Rules/Rules.md",
+    "Sibling campaign/Lore/Factions/Ashvale bandits.md",
     "Sibling campaign/Lore/Factions/Factions.md",
     "Sibling campaign/Lore/Factions/Forsworn.md",
     "Sibling campaign/Lore/Factions/Hags of witch muck.md",
     "Sibling campaign/Lore/Factions/The kingdom of Ashvale.md",
     "Sibling campaign/Lore/Locations/Regions/Ashvale reaches.md",
     "Sibling campaign/Lore/Locations/Regions/Regions.md",
+    "Sibling campaign/Lore/Locations/Ashfalls Crypt.md",
     "Sibling campaign/Lore/Locations/Ashvale (Sibling).md",
     "Sibling campaign/Lore/Locations/Castle witch muck.md",
     "Sibling campaign/Lore/Locations/Locations.md",
+    "Sibling campaign/Lore/Locations/Lost farm.md",
     "Sibling campaign/Lore/Locations/Monk barrow.md",
     "Sibling campaign/Lore/Locations/old hunters cabin.md",
     "Sibling campaign/Lore/Locations/Sunken city.md",
     "Sibling campaign/Lore/Locations/The Fort.md",
     "Sibling campaign/Lore/Lore.md",
+    "Sibling campaign/Missions/Ballad of the great slayer/Ballad of the great slayer.md",
+    "Sibling campaign/Missions/Ballad of the great slayer/Journey to Ashfall.md",
+    "Sibling campaign/Missions/Assault the fort.md",
+    "Sibling campaign/Missions/Bear with me now.md",
+    "Sibling campaign/Missions/Happenings in the forest.md",
+    "Sibling campaign/Missions/Return to castle witch muck.md",
     "Sibling campaign/Sibling campaign.md",
     "Templates/Ability.md",
     "Templates/Biome.md",
     "Templates/Boon.md",
     "Templates/Building.md",
     "Templates/Dungeon.md",
+    "Templates/Effect.md",
     "Templates/Encounter.md",
     "Templates/Enemy.md",
     "Templates/Facility.md",
@@ -460,15 +513,19 @@
     "Templates/God.md",
     "Templates/Herb.md",
     "Templates/Historical Event.md",
+    "Templates/Item.md",
     "Templates/Keyword.md",
     "Templates/Mission.md",
     "Templates/NPC.md",
     "Templates/Player.md",
     "Templates/Race.md",
+    "Templates/Recipe.md",
     "Templates/Site.md",
     "Templates/Town.md",
+    "Templates/Trade culture.md",
     "Templates/Weapon.md",
-    "Index.md",
+    "index.md",
+    "Under city district.png",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -510,6 +567,7 @@
     "lib/media/oig.asnzt26vsuvntrr.jpg",
     "lib/media/the-scout.jpg",
     "lib/media/oig.ewpjtz9u.jpg",
+    "lib/media/under-city-district.png",
     "lib/media/ashvale-marches.png",
     "lib/media/an-unexpected-addition-to-an-expected-journey.png",
     "lib/media/the-cursed-prision-3.png",
@@ -561,14 +619,14 @@
   ],
   "fileInfo": {
     "Beastiary/Abilities/A father to his men.md": {
-      "modifiedTime": 1729634739606,
-      "sourceSize": 284,
+      "modifiedTime": 1734477293756,
+      "sourceSize": 290,
       "exportedPath": "beastiary/abilities/a-father-to-his-men.html",
       "dependencies": []
     },
     "Beastiary/Abilities/Abilities.md": {
-      "modifiedTime": 1729634739606,
-      "sourceSize": 140,
+      "modifiedTime": 1734477293756,
+      "sourceSize": 157,
       "exportedPath": "beastiary/abilities/abilities.html",
       "dependencies": []
     },
@@ -1219,8 +1277,8 @@
       "dependencies": []
     },
     "Beastiary/Ganger/Salvage union/Salvage union.md": {
-      "modifiedTime": 1729634739606,
-      "sourceSize": 546,
+      "modifiedTime": 1734477293756,
+      "sourceSize": 561,
       "exportedPath": "beastiary/ganger/salvage-union/salvage-union.html",
       "dependencies": []
     },
@@ -1509,8 +1567,8 @@
       "dependencies": []
     },
     "Beastiary/Weapons/Spear.md": {
-      "modifiedTime": 1729634739606,
-      "sourceSize": 602,
+      "modifiedTime": 1734477698274,
+      "sourceSize": 598,
       "exportedPath": "beastiary/weapons/spear.html",
       "dependencies": []
     },
@@ -1521,14 +1579,14 @@
       "dependencies": []
     },
     "Beastiary/Weapons/Weapons.md": {
-      "modifiedTime": 1729634739606,
-      "sourceSize": 188,
+      "modifiedTime": 1734477293756,
+      "sourceSize": 205,
       "exportedPath": "beastiary/weapons/weapons.html",
       "dependencies": []
     },
     "Beastiary/Bestiary.md": {
-      "modifiedTime": 1729634739606,
-      "sourceSize": 546,
+      "modifiedTime": 1734477293756,
+      "sourceSize": 660,
       "exportedPath": "beastiary/bestiary.html",
       "dependencies": []
     },
@@ -1611,8 +1669,8 @@
       "dependencies": []
     },
     "Bmet/Lore/Factions/Salvage union.md": {
-      "modifiedTime": 1729634739606,
-      "sourceSize": 113,
+      "modifiedTime": 1734477698274,
+      "sourceSize": 188,
       "exportedPath": "bmet/lore/factions/salvage-union.html",
       "dependencies": []
     },
@@ -1635,14 +1693,14 @@
       "dependencies": []
     },
     "Bmet/Lore/Locations/Augustine.md": {
-      "modifiedTime": 1729634739606,
-      "sourceSize": 350,
+      "modifiedTime": 1734477293756,
+      "sourceSize": 497,
       "exportedPath": "bmet/lore/locations/augustine.html",
       "dependencies": []
     },
     "Bmet/Lore/Locations/Hanged King.md": {
-      "modifiedTime": 1729634739606,
-      "sourceSize": 253,
+      "modifiedTime": 1734477293756,
+      "sourceSize": 275,
       "exportedPath": "bmet/lore/locations/hanged-king.html",
       "dependencies": []
     },
@@ -1680,12 +1738,6 @@
       "modifiedTime": 1729634739606,
       "sourceSize": 100,
       "exportedPath": "bmet/lore/lore.html",
-      "dependencies": []
-    },
-    "Bmet/Missions/To teach a lesson/To teach a lesson.md": {
-      "modifiedTime": 1729634739606,
-      "sourceSize": 399,
-      "exportedPath": "bmet/missions/to-teach-a-lesson/to-teach-a-lesson.html",
       "dependencies": []
     },
     "Bmet/Missions/Missions.md": {
@@ -1850,48 +1902,6 @@
       "exportedPath": "go-team-edge-lord/lore/factions/ash-vale-marches-halfling-mafia/made.html",
       "dependencies": []
     },
-    "Go Team Edge Lord/Lore/Factions/Sizes/International.md": {
-      "modifiedTime": 1729634739606,
-      "sourceSize": 0,
-      "exportedPath": "go-team-edge-lord/lore/factions/sizes/international.html",
-      "dependencies": []
-    },
-    "Go Team Edge Lord/Lore/Factions/Sizes/Local.md": {
-      "modifiedTime": 1729634739606,
-      "sourceSize": 0,
-      "exportedPath": "go-team-edge-lord/lore/factions/sizes/local.html",
-      "dependencies": []
-    },
-    "Go Team Edge Lord/Lore/Factions/Sizes/Major.md": {
-      "modifiedTime": 1729634739606,
-      "sourceSize": 0,
-      "exportedPath": "go-team-edge-lord/lore/factions/sizes/major.html",
-      "dependencies": []
-    },
-    "Go Team Edge Lord/Lore/Factions/Sizes/Minor.md": {
-      "modifiedTime": 1729634739606,
-      "sourceSize": 0,
-      "exportedPath": "go-team-edge-lord/lore/factions/sizes/minor.html",
-      "dependencies": []
-    },
-    "Go Team Edge Lord/Lore/Factions/Sizes/National.md": {
-      "modifiedTime": 1729634739606,
-      "sourceSize": 0,
-      "exportedPath": "go-team-edge-lord/lore/factions/sizes/national.html",
-      "dependencies": []
-    },
-    "Go Team Edge Lord/Lore/Factions/Sizes/Regional.md": {
-      "modifiedTime": 1729634739606,
-      "sourceSize": 0,
-      "exportedPath": "go-team-edge-lord/lore/factions/sizes/regional.html",
-      "dependencies": []
-    },
-    "Go Team Edge Lord/Lore/Factions/Sizes/Size.md": {
-      "modifiedTime": 1729634739606,
-      "sourceSize": 74,
-      "exportedPath": "go-team-edge-lord/lore/factions/sizes/size.html",
-      "dependencies": []
-    },
     "Go Team Edge Lord/Lore/Factions/Ashvale Marches militia.md": {
       "modifiedTime": 1729634739606,
       "sourceSize": 177,
@@ -1923,7 +1933,7 @@
       "dependencies": []
     },
     "Go Team Edge Lord/Lore/Factions/Raven group.md": {
-      "modifiedTime": 1729634739606,
+      "modifiedTime": 1734477698274,
       "sourceSize": 280,
       "exportedPath": "go-team-edge-lord/lore/factions/raven-group.html",
       "dependencies": []
@@ -2777,14 +2787,14 @@
       "dependencies": []
     },
     "Rules/Biome data/Forgeable/Forgeable.md": {
-      "modifiedTime": 1729634739606,
-      "sourceSize": 105,
+      "modifiedTime": 1734477953802,
+      "sourceSize": 136,
       "exportedPath": "rules/biome-data/forgeable/forgeable.html",
       "dependencies": []
     },
     "Rules/Biome data/Forgeable/Wild Garlic.md": {
-      "modifiedTime": 1729634739606,
-      "sourceSize": 185,
+      "modifiedTime": 1734477698274,
+      "sourceSize": 204,
       "exportedPath": "rules/biome-data/forgeable/wild-garlic.html",
       "dependencies": []
     },
@@ -2987,26 +2997,26 @@
       "dependencies": []
     },
     "Rules/Crafting/Artisan tools/Brewing.md": {
-      "modifiedTime": 1729634739606,
-      "sourceSize": 1025,
+      "modifiedTime": 1734477293756,
+      "sourceSize": 997,
       "exportedPath": "rules/crafting/artisan-tools/brewing.html",
       "dependencies": []
     },
     "Rules/Crafting/Artisan tools/Cooking.md": {
-      "modifiedTime": 1729634739606,
-      "sourceSize": 505,
+      "modifiedTime": 1734477698274,
+      "sourceSize": 753,
       "exportedPath": "rules/crafting/artisan-tools/cooking.html",
       "dependencies": []
     },
     "Rules/Crafting/Artisan tools/Masonry.md": {
-      "modifiedTime": 1729634739606,
-      "sourceSize": 0,
+      "modifiedTime": 1734477293756,
+      "sourceSize": 10,
       "exportedPath": "rules/crafting/artisan-tools/masonry.html",
       "dependencies": []
     },
     "Rules/Crafting/Artisan tools/Smithing.md": {
-      "modifiedTime": 1729634739606,
-      "sourceSize": 0,
+      "modifiedTime": 1734477293756,
+      "sourceSize": 10,
       "exportedPath": "rules/crafting/artisan-tools/smithing.html",
       "dependencies": []
     },
@@ -3035,8 +3045,8 @@
       "dependencies": []
     },
     "Rules/Crafting/Crafting.md": {
-      "modifiedTime": 1729634739606,
-      "sourceSize": 192,
+      "modifiedTime": 1734477698274,
+      "sourceSize": 220,
       "exportedPath": "rules/crafting/crafting.html",
       "dependencies": []
     },
@@ -3101,8 +3111,8 @@
       "dependencies": []
     },
     "Rules/Factions/Factions.md": {
-      "modifiedTime": 1729634739606,
-      "sourceSize": 11,
+      "modifiedTime": 1734477698274,
+      "sourceSize": 129,
       "exportedPath": "rules/factions/factions.html",
       "dependencies": []
     },
@@ -3119,14 +3129,14 @@
       "dependencies": []
     },
     "Rules/POI's/Cairn.md": {
-      "modifiedTime": 1729634739606,
-      "sourceSize": 127,
+      "modifiedTime": 1734477293756,
+      "sourceSize": 138,
       "exportedPath": "rules/poi's/cairn.html",
       "dependencies": []
     },
     "Rules/POI's/POI's.md": {
-      "modifiedTime": 1729634739606,
-      "sourceSize": 118,
+      "modifiedTime": 1734477293756,
+      "sourceSize": 131,
       "exportedPath": "rules/poi's/poi's.html",
       "dependencies": []
     },
@@ -3209,8 +3219,8 @@
       "dependencies": []
     },
     "Sibling campaign/Lore/Locations/Regions/Ashvale reaches.md": {
-      "modifiedTime": 1729634739606,
-      "sourceSize": 26,
+      "modifiedTime": 1734477698274,
+      "sourceSize": 200,
       "exportedPath": "sibling-campaign/lore/locations/regions/ashvale-reaches.html",
       "dependencies": []
     },
@@ -3275,8 +3285,8 @@
       "dependencies": []
     },
     "Templates/Ability.md": {
-      "modifiedTime": 1729634739606,
-      "sourceSize": 101,
+      "modifiedTime": 1734477698274,
+      "sourceSize": 107,
       "exportedPath": "templates/ability.html",
       "dependencies": []
     },
@@ -3323,8 +3333,8 @@
       "dependencies": []
     },
     "Templates/Faction.md": {
-      "modifiedTime": 1729634739606,
-      "sourceSize": 113,
+      "modifiedTime": 1734477698274,
+      "sourceSize": 114,
       "exportedPath": "templates/faction.html",
       "dependencies": []
     },
@@ -3341,8 +3351,8 @@
       "dependencies": []
     },
     "Templates/Herb.md": {
-      "modifiedTime": 1729634739606,
-      "sourceSize": 130,
+      "modifiedTime": 1734477698274,
+      "sourceSize": 111,
       "exportedPath": "templates/herb.html",
       "dependencies": []
     },
@@ -3398,12 +3408,6 @@
       "modifiedTime": 1729634739606,
       "sourceSize": 462,
       "exportedPath": "templates/weapon.html",
-      "dependencies": []
-    },
-    "Index.md": {
-      "modifiedTime": 1729634739606,
-      "sourceSize": 135,
-      "exportedPath": "index.html",
       "dependencies": []
     },
     "lib/media/oig2.jpg": {
@@ -3581,183 +3585,587 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1729635354893,
+      "modifiedTime": 1734477953802,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1729635354893,
+      "modifiedTime": 1734477953802,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1729635354893,
+      "modifiedTime": 1734477953802,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1729635354893,
+      "modifiedTime": 1734477953802,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1729635354893,
+      "modifiedTime": 1734477953802,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1729635354893,
+      "modifiedTime": 1734477953802,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1729635354893,
+      "modifiedTime": 1734477953802,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1729635354893,
+      "modifiedTime": 1734477953802,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1729635354893,
+      "modifiedTime": 1734477953802,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1729635354893,
+      "modifiedTime": 1734477953802,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1729635354893,
+      "modifiedTime": 1734477953802,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1729635354893,
+      "modifiedTime": 1734477953802,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1729635354893,
+      "modifiedTime": 1734477953802,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1729635354893,
+      "modifiedTime": 1734477953802,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1729635354893,
+      "modifiedTime": 1734477953802,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1729635354893,
-      "sourceSize": 414624,
+      "modifiedTime": 1734477953802,
+      "sourceSize": 463599,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1729635354893,
+      "modifiedTime": 1734477953802,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1729635354893,
+      "modifiedTime": 1734477953802,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1729635354893,
+      "modifiedTime": 1734477953802,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1729635354893,
+      "modifiedTime": 1734477953802,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1729635354893,
+      "modifiedTime": 1734477953802,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1729635354893,
+      "modifiedTime": 1734477953802,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1729635354893,
+      "modifiedTime": 1734477953802,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1729635354893,
+      "modifiedTime": 1734477953802,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1729635354893,
-      "sourceSize": 39619,
+      "modifiedTime": 1734477953802,
+      "sourceSize": 44104,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1729635354893,
-      "sourceSize": 131134,
+      "modifiedTime": 1734477953802,
+      "sourceSize": 131118,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1729635354893,
-      "sourceSize": 25819,
+      "modifiedTime": 1734477953802,
+      "sourceSize": 26335,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1729635354893,
+      "modifiedTime": 1734477953802,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1729635354893,
+      "modifiedTime": 1734477953802,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "Bmet/DM screen.canvas": {
-      "modifiedTime": 1729635354893,
-      "sourceSize": 281,
+      "modifiedTime": 1734477293756,
+      "sourceSize": 263,
       "exportedPath": "bmet/dm-screen.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Effect.md": {
+      "modifiedTime": 1734477698274,
+      "sourceSize": 65,
+      "exportedPath": "beastiary/abilities/effect.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Resist Vampire.md": {
+      "modifiedTime": 1734477698274,
+      "sourceSize": 199,
+      "exportedPath": "beastiary/abilities/resist-vampire.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Shimmer Stims.md": {
+      "modifiedTime": 1734477293756,
+      "sourceSize": 234,
+      "exportedPath": "beastiary/abilities/shimmer-stims.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Slam.md": {
+      "modifiedTime": 1734477293756,
+      "sourceSize": 228,
+      "exportedPath": "beastiary/abilities/slam.html",
+      "dependencies": []
+    },
+    "Beastiary/Fey touched/Fey touched.md": {
+      "modifiedTime": 1734477293756,
+      "sourceSize": 0,
+      "exportedPath": "beastiary/fey-touched/fey-touched.html",
+      "dependencies": []
+    },
+    "Beastiary/Ganger/Salvage union/Salvage union boss.md": {
+      "modifiedTime": 1734477293756,
+      "sourceSize": 54,
+      "exportedPath": "beastiary/ganger/salvage-union/salvage-union-boss.html",
+      "dependencies": []
+    },
+    "Beastiary/Ganger/Salvage union/Salvage union Fodder.md": {
+      "modifiedTime": 1734477293756,
+      "sourceSize": 58,
+      "exportedPath": "beastiary/ganger/salvage-union/salvage-union-fodder.html",
+      "dependencies": []
+    },
+    "Beastiary/Ganger/Salvage union/Salvage union Specialist.md": {
+      "modifiedTime": 1734477293756,
+      "sourceSize": 60,
+      "exportedPath": "beastiary/ganger/salvage-union/salvage-union-specialist.html",
+      "dependencies": []
+    },
+    "Beastiary/Ganger/Salvage union/Salvage union Squad leader.md": {
+      "modifiedTime": 1734477293756,
+      "sourceSize": 63,
+      "exportedPath": "beastiary/ganger/salvage-union/salvage-union-squad-leader.html",
+      "dependencies": []
+    },
+    "Beastiary/Ganger/Salvage union/Salvage union unique.md": {
+      "modifiedTime": 1734477293756,
+      "sourceSize": 57,
+      "exportedPath": "beastiary/ganger/salvage-union/salvage-union-unique.html",
+      "dependencies": []
+    },
+    "Beastiary/Ganger/Shimmered/Addict.md": {
+      "modifiedTime": 1734477293756,
+      "sourceSize": 781,
+      "exportedPath": "beastiary/ganger/shimmered/addict.html",
+      "dependencies": []
+    },
+    "Beastiary/Ganger/Shimmered/Dealer.md": {
+      "modifiedTime": 1734477293756,
+      "sourceSize": 621,
+      "exportedPath": "beastiary/ganger/shimmered/dealer.html",
+      "dependencies": []
+    },
+    "Beastiary/Ganger/Shimmered/Dependant.md": {
+      "modifiedTime": 1734477293756,
+      "sourceSize": 621,
+      "exportedPath": "beastiary/ganger/shimmered/dependant.html",
+      "dependencies": []
+    },
+    "Beastiary/Ganger/Shimmered/Fiend.md": {
+      "modifiedTime": 1734477293756,
+      "sourceSize": 621,
+      "exportedPath": "beastiary/ganger/shimmered/fiend.html",
+      "dependencies": []
+    },
+    "Beastiary/Ganger/Shimmered/Junkie.md": {
+      "modifiedTime": 1734477293756,
+      "sourceSize": 621,
+      "exportedPath": "beastiary/ganger/shimmered/junkie.html",
+      "dependencies": []
+    },
+    "Beastiary/Ganger/Shimmered/Shimmered.md": {
+      "modifiedTime": 1734477293756,
+      "sourceSize": 552,
+      "exportedPath": "beastiary/ganger/shimmered/shimmered.html",
+      "dependencies": []
+    },
+    "Beastiary/Weapons/Fists.md": {
+      "modifiedTime": 1734477293756,
+      "sourceSize": 530,
+      "exportedPath": "beastiary/weapons/fists.html",
+      "dependencies": []
+    },
+    "Beastiary/Weapons/Sword of Strange Voices.md": {
+      "modifiedTime": 1734477293756,
+      "sourceSize": 469,
+      "exportedPath": "beastiary/weapons/sword-of-strange-voices.html",
+      "dependencies": []
+    },
+    "Bmet/Lore/Factions/The council.md": {
+      "modifiedTime": 1734477293756,
+      "sourceSize": 147,
+      "exportedPath": "bmet/lore/factions/the-council.html",
+      "dependencies": []
+    },
+    "Bmet/Lore/Factions/Tyrell family.md": {
+      "modifiedTime": 1734477293756,
+      "sourceSize": 114,
+      "exportedPath": "bmet/lore/factions/tyrell-family.html",
+      "dependencies": []
+    },
+    "Bmet/Lore/Locations/Dwarven salvage yard.md": {
+      "modifiedTime": 1734477293756,
+      "sourceSize": 0,
+      "exportedPath": "bmet/lore/locations/dwarven-salvage-yard.html",
+      "dependencies": []
+    },
+    "Bmet/Lore/Locations/Shimmer Den.md": {
+      "modifiedTime": 1734477293756,
+      "sourceSize": 0,
+      "exportedPath": "bmet/lore/locations/shimmer-den.html",
+      "dependencies": []
+    },
+    "Bmet/Lore/Locations/The Under city.md": {
+      "modifiedTime": 1734477698274,
+      "sourceSize": 543,
+      "exportedPath": "bmet/lore/locations/the-under-city.html",
+      "dependencies": [
+        "lib/media/under-city-district.png"
+      ]
+    },
+    "Bmet/Lore/NPC's/Don Tyrell.md": {
+      "modifiedTime": 1734477293756,
+      "sourceSize": 1040,
+      "exportedPath": "bmet/lore/npc's/don-tyrell.html",
+      "dependencies": []
+    },
+    "Bmet/Lore/Technologies and concepts/Shimmer.md": {
+      "modifiedTime": 1734477293756,
+      "sourceSize": 1384,
+      "exportedPath": "bmet/lore/technologies-and-concepts/shimmer.html",
+      "dependencies": []
+    },
+    "Bmet/Missions/Rat hunting.md": {
+      "modifiedTime": 1734477293756,
+      "sourceSize": 561,
+      "exportedPath": "bmet/missions/rat-hunting.html",
+      "dependencies": []
+    },
+    "Bmet/Missions/To teach a lesson.md": {
+      "modifiedTime": 1734477293756,
+      "sourceSize": 399,
+      "exportedPath": "bmet/missions/to-teach-a-lesson.html",
+      "dependencies": []
+    },
+    "Bmet/Status effects/Shimmer sickness.md": {
+      "modifiedTime": 1734477293756,
+      "sourceSize": 207,
+      "exportedPath": "bmet/status-effects/shimmer-sickness.html",
+      "dependencies": []
+    },
+    "Items/Meals/Meals.md": {
+      "modifiedTime": 1734477698274,
+      "sourceSize": 49,
+      "exportedPath": "items/meals/meals.html",
+      "dependencies": []
+    },
+    "Items/Recipes/Craft Hand tool.md": {
+      "modifiedTime": 1734477698274,
+      "sourceSize": 455,
+      "exportedPath": "items/recipes/craft-hand-tool.html",
+      "dependencies": []
+    },
+    "Items/Recipes/Dry herb by the fire.md": {
+      "modifiedTime": 1734477698274,
+      "sourceSize": 495,
+      "exportedPath": "items/recipes/dry-herb-by-the-fire.html",
+      "dependencies": []
+    },
+    "Items/Recipes/Dry herb in air.md": {
+      "modifiedTime": 1734477698274,
+      "sourceSize": 494,
+      "exportedPath": "items/recipes/dry-herb-in-air.html",
+      "dependencies": []
+    },
+    "Items/Recipes/Recipes.md": {
+      "modifiedTime": 1734477698274,
+      "sourceSize": 121,
+      "exportedPath": "items/recipes/recipes.html",
+      "dependencies": []
+    },
+    "Items/Bear hide.md": {
+      "modifiedTime": 1734477293756,
+      "sourceSize": 0,
+      "exportedPath": "items/bear-hide.html",
+      "dependencies": []
+    },
+    "Items/Carpenter's tools.md": {
+      "modifiedTime": 1734477293756,
+      "sourceSize": 0,
+      "exportedPath": "items/carpenter's-tools.html",
+      "dependencies": []
+    },
+    "Items/Chisel.md": {
+      "modifiedTime": 1734477698274,
+      "sourceSize": 408,
+      "exportedPath": "items/chisel.html",
+      "dependencies": []
+    },
+    "Items/Herb.md": {
+      "modifiedTime": 1734477698274,
+      "sourceSize": 127,
+      "exportedPath": "items/herb.html",
+      "dependencies": []
+    },
+    "Items/Items.md": {
+      "modifiedTime": 1734477698274,
+      "sourceSize": 95,
+      "exportedPath": "items/items.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Facilities/Chemists study.md": {
+      "modifiedTime": 1734477293756,
+      "sourceSize": 193,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/facilities/chemists-study.html",
+      "dependencies": []
+    },
+    "Rules/Crafting/Artisan tools/Chemist's tools.md": {
+      "modifiedTime": 1734477293756,
+      "sourceSize": 0,
+      "exportedPath": "rules/crafting/artisan-tools/chemist's-tools.html",
+      "dependencies": []
+    },
+    "Rules/Crafting/Artisan tools/Drying.md": {
+      "modifiedTime": 1734477698274,
+      "sourceSize": 441,
+      "exportedPath": "rules/crafting/artisan-tools/drying.html",
+      "dependencies": []
+    },
+    "Rules/Factions/Sizes/International.md": {
+      "modifiedTime": 1734477293756,
+      "sourceSize": 0,
+      "exportedPath": "rules/factions/sizes/international.html",
+      "dependencies": []
+    },
+    "Rules/Factions/Sizes/Local.md": {
+      "modifiedTime": 1734477293756,
+      "sourceSize": 0,
+      "exportedPath": "rules/factions/sizes/local.html",
+      "dependencies": []
+    },
+    "Rules/Factions/Sizes/Major.md": {
+      "modifiedTime": 1734477293756,
+      "sourceSize": 0,
+      "exportedPath": "rules/factions/sizes/major.html",
+      "dependencies": []
+    },
+    "Rules/Factions/Sizes/Minor.md": {
+      "modifiedTime": 1734477293756,
+      "sourceSize": 0,
+      "exportedPath": "rules/factions/sizes/minor.html",
+      "dependencies": []
+    },
+    "Rules/Factions/Sizes/National.md": {
+      "modifiedTime": 1734477293756,
+      "sourceSize": 0,
+      "exportedPath": "rules/factions/sizes/national.html",
+      "dependencies": []
+    },
+    "Rules/Factions/Sizes/Regional.md": {
+      "modifiedTime": 1734477293756,
+      "sourceSize": 0,
+      "exportedPath": "rules/factions/sizes/regional.html",
+      "dependencies": []
+    },
+    "Rules/Factions/Sizes/Size.md": {
+      "modifiedTime": 1734477698274,
+      "sourceSize": 74,
+      "exportedPath": "rules/factions/sizes/size.html",
+      "dependencies": []
+    },
+    "Rules/Factions/States/known.md": {
+      "modifiedTime": 1734477293756,
+      "sourceSize": 0,
+      "exportedPath": "rules/factions/states/known.html",
+      "dependencies": []
+    },
+    "Rules/Factions/Trade culture.md": {
+      "modifiedTime": 1734477293756,
+      "sourceSize": 310,
+      "exportedPath": "rules/factions/trade-culture.html",
+      "dependencies": []
+    },
+    "Rules/POI's/Drug Lab.md": {
+      "modifiedTime": 1734477293756,
+      "sourceSize": 132,
+      "exportedPath": "rules/poi's/drug-lab.html",
+      "dependencies": []
+    },
+    "Sibling campaign/Lore/Factions/Ashvale bandits.md": {
+      "modifiedTime": 1734477698274,
+      "sourceSize": 123,
+      "exportedPath": "sibling-campaign/lore/factions/ashvale-bandits.html",
+      "dependencies": []
+    },
+    "Sibling campaign/Lore/Locations/Ashfalls Crypt.md": {
+      "modifiedTime": 1734477698274,
+      "sourceSize": 35,
+      "exportedPath": "sibling-campaign/lore/locations/ashfalls-crypt.html",
+      "dependencies": []
+    },
+    "Sibling campaign/Lore/Locations/Lost farm.md": {
+      "modifiedTime": 1734477698274,
+      "sourceSize": 35,
+      "exportedPath": "sibling-campaign/lore/locations/lost-farm.html",
+      "dependencies": []
+    },
+    "Sibling campaign/Missions/Ballad of the great slayer/Ballad of the great slayer.md": {
+      "modifiedTime": 1734477293756,
+      "sourceSize": 0,
+      "exportedPath": "sibling-campaign/missions/ballad-of-the-great-slayer/ballad-of-the-great-slayer.html",
+      "dependencies": []
+    },
+    "Sibling campaign/Missions/Ballad of the great slayer/Journey to Ashfall.md": {
+      "modifiedTime": 1734477698274,
+      "sourceSize": 305,
+      "exportedPath": "sibling-campaign/missions/ballad-of-the-great-slayer/journey-to-ashfall.html",
+      "dependencies": []
+    },
+    "Sibling campaign/Missions/Assault the fort.md": {
+      "modifiedTime": 1734477698274,
+      "sourceSize": 379,
+      "exportedPath": "sibling-campaign/missions/assault-the-fort.html",
+      "dependencies": []
+    },
+    "Sibling campaign/Missions/Bear with me now.md": {
+      "modifiedTime": 1734477698274,
+      "sourceSize": 461,
+      "exportedPath": "sibling-campaign/missions/bear-with-me-now.html",
+      "dependencies": []
+    },
+    "Sibling campaign/Missions/Happenings in the forest.md": {
+      "modifiedTime": 1734477293756,
+      "sourceSize": 0,
+      "exportedPath": "sibling-campaign/missions/happenings-in-the-forest.html",
+      "dependencies": []
+    },
+    "Sibling campaign/Missions/Return to castle witch muck.md": {
+      "modifiedTime": 1734477698274,
+      "sourceSize": 266,
+      "exportedPath": "sibling-campaign/missions/return-to-castle-witch-muck.html",
+      "dependencies": []
+    },
+    "Templates/Effect.md": {
+      "modifiedTime": 1734477698274,
+      "sourceSize": 106,
+      "exportedPath": "templates/effect.html",
+      "dependencies": []
+    },
+    "Templates/Item.md": {
+      "modifiedTime": 1734477698274,
+      "sourceSize": 285,
+      "exportedPath": "templates/item.html",
+      "dependencies": []
+    },
+    "Templates/Recipe.md": {
+      "modifiedTime": 1734477698274,
+      "sourceSize": 390,
+      "exportedPath": "templates/recipe.html",
+      "dependencies": []
+    },
+    "Templates/Trade culture.md": {
+      "modifiedTime": 1734477293756,
+      "sourceSize": 0,
+      "exportedPath": "templates/trade-culture.html",
+      "dependencies": []
+    },
+    "index.md": {
+      "modifiedTime": 1734477698274,
+      "sourceSize": 150,
+      "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "Under city district.png": {
+      "modifiedTime": 1734477698274,
+      "sourceSize": 929319,
+      "exportedPath": "under-city-district.png",
+      "dependencies": []
+    },
+    "lib/media/under-city-district.png": {
+      "modifiedTime": 1734477698274,
+      "sourceSize": 929319,
+      "exportedPath": "lib/media/under-city-district.png",
       "dependencies": []
     }
   }
